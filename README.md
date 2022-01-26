@@ -9,6 +9,7 @@ In this paper, we proposes a pre-trained grapheme model called grapheme BERT (GB
 <div style="align: center">
 <img src="https://github.com/ldong1111/GraphemeBERT/blob/main/GBERT.png"/>
 </div>
+
 ### Some Reference codes
 [Transformer](https://github.com/bentrevett/pytorch-seq2seq)
 

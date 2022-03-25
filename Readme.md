@@ -28,7 +28,7 @@ If you find this repo helpful, please cite the following paper:
 
 [BERT](https://github.com/codertimo/BERT-pytorch)
 
-[BERT-fused model]([bert-nmt/bert-nmt (github.com)](https://github.com/bert-nmt/bert-nmt))
+[BERT-fused model](https://github.com/bert-nmt/bert-nmt)
 
 ### Requirements
 

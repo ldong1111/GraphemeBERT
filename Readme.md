@@ -80,7 +80,7 @@ We collected word list from [**WikiPron**](https://github.com/CUNY-CL/wikipron),
 
 ## Pre-training
 
-The GBERT is a Transformer encoder framework. For all languages, we used a 6-layer Transformer encoder, the training details refers to [BERT](https://github.com/codertimo/BERT-pytorch). Since the pre-trained GBERT is quite small (~4M parameters while BERT has 110M parameters), it will only take ~6h pre-training on a single GTX1080 GPU. So, we did not release our  pre-trained GBERT.
+The GBERT is a Transformer encoder framework. For all languages, we used a 6-layer Transformer encoder, the training details refers to [BERT](https://github.com/codertimo/BERT-pytorch). Since the pre-trained GBERT is quite small (~4M parameters while BERT has 110M parameters), it will only take ~6h pre-training on a single GTX1080 GPU. So, we did not release our  pre-trained GBERT, you can pre-train a GBERT quickly.
 
 ### G2P Datasets
 We use the Dutch, Serbo-Croatian, Bulgarian and Korean datasets in the medium-resource subtask of the [**SIGMORPHON2021 G2P task**](https://github.com/sigmorphon/2021-task1) for the experiments.

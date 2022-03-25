@@ -102,7 +102,7 @@ To reproduce our experimental results for different languages, you may follow ou
 1. GBERT
    1. batch size=1024, lr=1e-4, n layers=6, dropout=0.1, gelu (followed by BERT), the experiments of GBERT attention of bul (medium resource) used a GBERT with relu since a GBERT with gelu did not work well.
 2. Transformers
-   1. batch size(1024/512/256 for medium-resource, 32/16 for low-resource)
+   1. batch size(1024/512/256 for medium-resource, 16/8 for low-resource)
    2. lr(1e-3/5e-4)
    3. hid dim(256/128 for medium resource, 128 for low-resource), 
    4. n layers(3 for medium resource, 2 for low-resource),  
@@ -140,7 +140,7 @@ To reproduce our experimental results for different languages, you may follow ou
          1. dut: lr\_encoder=1e-5, lr\_decoder=5e-4
          2. hbs: lr\_encoder=1e-4, lr\_decoder=5e-4
          3. bul: lr_encoder=1e-4, lr_decoder=1e-3
-         4. kor: lr_encoder=1e-5, lr_decoder=1e-4, batch size 16
+         4. kor: lr_encoder=1e-5, lr_decoder=1e-4
       3. GBERT attention
          1. lr\_second\_train=5e-4 for all experiments.
    3. Low resource Transfer

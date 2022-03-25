@@ -1,0 +1,1001 @@
+merged_spelling,ipa,langid
+{kor}ㄱㅏㄱㅗㄱ,k a̠ ɡ o̞ k̚,0
+{kor}ㄱㅏㄱㅗㅇ,k a̠ ɡ o̞ ŋ,0
+{kor}ㄱㅏㄱㅡㄱ,k a̠ ɡ ɯ k̚,0
+{kor}ㄱㅏㄲㅏㅇㅣ,k a̠ k͈ a̠ i,0
+{kor}ㄱㅏㄴㅏㄴ,k a̠ n a̠ n,0
+{kor}ㄱㅏㄹㅏㄱ,k a̠ ɾ a̠ k̚,0
+{kor}ㄱㅏㅁㅣㅋㅏㅈㅔ,k a̠ m i kʰ a̠ d͡ʑ e̞,0
+{kor}ㄱㅏㅅㅗㄹㄹㅣㄴ,k a̠ sʰ o̞ ʎ ʎ i n,0
+{kor}ㄱㅏㅅㅜ,k a̠ sʰ u,0
+{kor}ㄱㅏㅅㅡㄹㅔㅇㅣㄴㅈㅣ,k a̠ sʰ ɯ ɾ e̞ i ɲ d͡ʑ i,0
+{kor}ㄱㅏㅇㅓㅄㅇㅣ,k a̠ː ʌ̹ p ɕ͈ i,0
+{kor}ㄱㅏㅇㅛ,k a̠ j o,0
+{kor}ㄱㅏㅇㅣㅇㅏㄴㅏ,k a̠ i a̠ n a̠,0
+{kor}ㄱㅏㅈㅓㅇㅂㅜ,k a̠ d͡ʑ ʌ̹ ŋ b u,0
+{kor}ㄱㅏㅈㅜㄱ,k a̠ d͡ʑ u k̚,0
+{kor}ㄱㅏㅉㅏ,k a̠ː t͡ɕ͈ a̠,0
+{kor}ㄱㅏㄱㅅㅣㅂㅜㅇㅇㅓ,k a̠ k ɕ͈ i b u ŋ ʌ̹,0
+{kor}ㄱㅏㄱㅈㅜㄱㅜㄱㅓㅁ,k a̠ k̚ t͡ɕ͈ u ɡ u ɡ ʌ̹ m,0
+{kor}ㄱㅏㄴㅅㅓㄴ,k a̠ n sʰ ʌ̹ n,0
+{kor}ㄱㅏㄴㅎㅗㅇㅝㄴ,k a̠ n β o̞ w ʌ̹ n,0
+{kor}ㄱㅏㅁㄷㅏ,k a̠ m t͈ a̠,0
+{kor}ㄱㅏㅁㅅㅏㅎㅏㅂㄴㅣㄷㅏ,k a̠ː m sʰ a̠ ɦ a̠ m n i d a̠,0
+{kor}ㄱㅏㅁㅎㅣ,k a̠ː m ʝ i,0
+{kor}ㄱㅏㅇㄷㅗ,k a̠ː ŋ d o̞,0
+{kor}ㄱㅏㅈㅊㅜㄷㅏ,k a̠ t̚ t͡ɕʰ u d a̠,0
+{kor}ㄱㅐㅁㅣ,k ɛː m i,0
+{kor}ㄱㅐㅅㅓㄴ,k ɛː sʰ ʌ̹ n,0
+{kor}ㄱㅐㅈㅓㅇ,k ɛː d͡ʑ ʌ̹ ŋ,0
+{kor}ㄱㅑㄹㅡㅁㅎㅏㄷㅏ,k j a̠ ɾ ɯ m ɦ a̠ d a̠,0
+{kor}ㄱㅑㅇㅜㅅ,k j a̠ u t̚,0
+{kor}ㄱㅓㅂㅜㄱㅏㅁ,k ɘː b u ɡ a̠ m,0
+{kor}ㄱㅓㅂㅜㄱ,k ʌ̹ b u k̚,0
+{kor}ㄱㅓㄴㄷㅏㄹ,k ʌ̹ n d a̠ ɭ,0
+{kor}ㄱㅓㄴㄷㅡㄹㅣㄷㅏ,k ɘː n d ɯ ɾ i d a̠,0
+{kor}ㄱㅓㄴㅁㅏㅇㅈㅡㅇ,k ɘː n m a̠ ŋ t͡ɕ͈ ɯ ŋ,0
+{kor}ㄱㅓㄷㄱㅣ,k ɘː t̚ k͈ i,0
+{kor}ㄱㅓㅁㅊㅏㄹ,k ɘː m t͡ɕʰ a̠ ɭ,0
+{kor}ㄱㅓㅁㅊㅏㄹㅊㅓㅇ,k ɘː m t͡ɕʰ a̠ ʎ t͡ɕʰ ʌ̹ ŋ,0
+{kor}ㄱㅓㅁㅊㅜㄹ,k ɘː m t͡ɕʰ u ɭ,0
+{kor}ㄱㅔㅇㅣ,k e̞ i,0
+{kor}ㄱㅕㄹㄱㅘ,k j ʌ̹ ɭ ɡ w a̠,0
+{kor}ㄱㅕㄹㄱㅘㅈㅓㄱ,k j ʌ̹ ɭ ɡ w a̠ d͡ʑ ʌ̹ k̚,0
+{kor}ㄱㅕㄹㄱㅜㄱ,k j ʌ̹ ɭ ɡ u k̚,0
+{kor}ㄱㅕㄹㅈㅓㅇㅎㅘ,k j ʌ̹ ʎ t͡ɕ͈ ʌ̹ ŋ β w a̠,0
+{kor}ㄱㅕㅇㄷㅗ,k j ɘː ŋ d o̞,0
+{kor}ㄱㅕㅇㄹㅕㄴ,k j ʌ̹ ŋ ɲ j ʌ̹ n,0
+{kor}ㄱㅕㅇㅈㅔㅎㅏㄱ,k j ʌ̹ ŋ d͡ʑ e̞ ɦ a̠ k̚,0
+{kor}ㄱㅕㅇㅊㅏㄹㄱㅕㄴ,k j ɘː ŋ t͡ɕʰ a̠ ɭ ɡ j ʌ̹ n,0
+{kor}ㄱㅖㄹㅑㅇㄱㅣ,k j e̞ː ɾ j a̠ ŋ ɡ i,0
+{kor}ㄱㅖㅅㅗㄱㄷㅚㄷㅏ,k j e̞ː sʰ o̞ k̚ t͈ w e̞ d a̠,0
+{kor}ㄱㅖㅅㅣㅍㅏㄴ,k j e̞ː ɕʰ i pʰ a̠ n,0
+{kor}ㄱㅖㅎㅚㄱㅎㅏㄷㅏ,k j e̞ː β w e̞ kʰ a̠ d a̠,0
+{kor}ㄱㅗㅅㅗㄱ,k o̞ sʰ o̞ k̚,0
+{kor}ㄱㅗㅅㅣㄱㅁㅜㄹㅎㅏㄱ,k o̞ː ɕʰ i ŋ m u ɾ ɦ a̠ k̚,0
+{kor}ㄱㅗㅇㅛㅎㅏㄷㅏ,k o̞ j o ɦ a̠ d a̠,0
+{kor}ㄱㅗㅎㅑㅇ,k o̞ ʝ j a̠ ŋ,0
+{kor}ㄱㅗㄴㄷㅗㄹㄹㅏ,k o̞ n d o̞ ɭ ɭ a̠,0
+{kor}ㄱㅗㄷㄷㅏ,k o̞ t̚ t͈ a̠,0
+{kor}ㄱㅗㄹㄱㅕㄱ,k o̞ ɭ ɡ j ʌ̹ k̚,0
+{kor}ㄱㅗㅁㅅㅣㄹㄱㅗㅁㅅㅣㄹ,k o̞ m ɕʰ i ɭ ɡ o̞ m ɕʰ i ɭ,0
+{kor}ㄱㅗㅇㄱㅏㅁ,k o̞ː ŋ ɡ a̠ m,0
+{kor}ㄱㅗㅇㅈㅣㄱㅈㅏ,k o̞ ŋ d͡ʑ i k̚ t͡ɕ͈ a̠,0
+{kor}ㄱㅗㅇㅌㅗㅇ,k o̞ː ŋ tʰ o̞ ŋ,0
+{kor}ㄱㅗㅇㅎㅘㄱㅜㄱ,k o̞ː ŋ β w a̠ ɡ u k̚,0
+{kor}ㄱㅘㄴㅕㄱ,k w a̠ː ɲ j ʌ̹ k̚,0
+{kor}ㄱㅘㅂㅜ,k w a̠ː b u,0
+{kor}ㄱㅘㅅㅣㄱ,k w a̠ː ɕʰ i k̚,0
+{kor}ㄱㅘㄴㅅㅡㅂ,k w a̠ n sʰ ɯ p̚,0
+{kor}ㄱㅘㄴㅇㅏㄱㅅㅏㄴ,k w a̠ n a̠ k s͈ a̠ n,0
+{kor}ㄱㅘㅇㅊㅓㄴㅅㅜ,k w a̠ː ŋ t͡ɕʰ ʌ̹ n sʰ u,0
+{kor}ㄱㅘㅇㅎㅏㅂㅅㅓㅇ,k w a̠ ŋ ɦ a̠ p s͈ ʌ̹ ŋ,0
+{kor}ㄱㅜㄱㅡㄹ,k u ɡ ɯ ɭ,0
+{kor}ㄱㅜㄷㅜㅅㅚ,k u d u sʰ w e̞,0
+{kor}ㄱㅜㄹㅠ,k u ɾ j u,0
+{kor}ㄱㅜㅂㅕㄹ,k u b j ʌ̹ ɭ,0
+{kor}ㄱㅜㅅㅓㄱ,k u sʰ ʌ̹ k̚,0
+{kor}ㄱㅜㅅㅣㄱ,k uː ɕʰ i k̚,0
+{kor}ㄱㅜㅇㅓ,k uː ʌ̹,0
+{kor}ㄱㅜㅇㅕㄱㅈㅣㄹ,k u j ʌ̹ k̚ t͡ɕ͈ i ɭ,0
+{kor}ㄱㅜㅇㅣㅈㅓㅇㅜ,k u i d͡ʑ ʌ̹ u,0
+{kor}ㄱㅜㅈㅜ,k u d͡ʑ u,0
+{kor}ㄱㅜㄱㄱㅣ,k u k̚ k͈ i,0
+{kor}ㄱㅜㄱㅁㅣㄴㅎㅏㄱㄱㅛ,k u ŋ m i n ɦ a̠ k̚ k͈ j o,0
+{kor}ㄱㅜㄱㅈㅏㅇ,k u k̚ t͡ɕ͈ a̠ ŋ,0
+{kor}ㄱㅜㄱㅈㅔ,k u k̚ t͡ɕ͈ e̞,0
+{kor}ㄱㅜㄱㅎㅚㅇㅢㅇㅝㄴ,k u kʰ w e̞ ɰ i w ʌ̹ n,0
+{kor}ㄱㅜㄴㅂㅏㄹㅣ,k u n b a̠ ɾ i,0
+{kor}ㄱㅜㄴㅅㅏ,k u n sʰ a̠,0
+{kor}ㄱㅜㄴㅈㅏ,k u ɲ d͡ʑ a̠,0
+{kor}ㄱㅜㄺㄷㅏ,k uː k̚ t͈ a̠,0
+{kor}ㄱㅜㄻㅈㅜㄹㅣㄷㅏ,k uː m d͡ʑ u ɾ i d a̠,0
+{kor}ㄱㅜㄻㅈㅜㄹㅣㅁ,k uː m d͡ʑ u ɾ i m,0
+{kor}ㄱㅜㅁㅈㅣㄹㅓㄱㄱㅜㅁㅈㅣㄹㅓㄱ,k u m d͡ʑ i ɾ ʌ̹ k̚ k͈ u m d͡ʑ i ɾ ʌ̹ k̚,0
+{kor}ㄱㅜㅂㅇㅣㄱㅜㅂㅇㅣ,k u b i ɡ u b i,0
+{kor}ㄱㅞㅌㅏㄹㅅㅏㅎㅏㄷㅏ,k w e̞ tʰ a̠ ɭ sʰ a̠ ɦ a̠ d a̠,0
+{kor}ㄱㅟㄱㅗㄹㅣ,k ɥ i ɡ o̞ ɾ i,0
+{kor}ㄱㅟㄱㅜㅁㅓㅇ,k ɥ i ɡ u m ʌ̹ ŋ,0
+{kor}ㄱㅟㅈㅓㄹ,k ɥ i d͡ʑ ʌ̹ ɭ,0
+{kor}ㄱㅠㅌㅏㄴ,k j u tʰ a̠ n,0
+{kor}ㄱㅡㄱㅔ,k ɯ ɡ e̞,0
+{kor}ㄱㅡㄴㅕ,k ɯ ɲ j ʌ̹,0
+{kor}ㄱㅡㄴㄹㅗ,k ɯː ɭ ɭ o̞,0
+{kor}ㄱㅡㄴㅎㅖ,k ɯ n ʝ j e̞,0
+{kor}ㄱㅡㅁㅅㅔ,k ɯ m sʰ e̞,0
+{kor}ㄱㅡㅁㅇㅛㄱ,k ɯː m j o k̚,0
+{kor}ㄱㅣㄱㅣ,k i ɡ i,0
+{kor}ㄱㅣㄷㅗㅅㅓ,k i d o̞ sʰ ʌ̹,0
+{kor}ㄱㅣㄷㅜㅇ,k i d u ŋ,0
+{kor}ㄱㅣㄹㅔㄱㅣ,k i ɾ e̞ ɡ i,0
+{kor}ㄱㅣㄹㅖㄱㅣ,k i ɾ j e̞ ɡ i,0
+{kor}ㄱㅣㅁㅏㄴ,k i m a̠ n,0
+{kor}ㄱㅣㅂㅜㄴ,k i b u n,0
+{kor}ㄱㅣㅃㅡㅁ,k i p͈ ɯ m,0
+{kor}ㄱㅣㅅㅏㅇㅎㅏㄱ,k i sʰ a̠ ŋ ɦ a̠ k̚,0
+{kor}ㄱㅣㅅㅓㄴ,k i sʰ ʌ̹ n,0
+{kor}ㄱㅣㅅㅗ,k i sʰ o̞,0
+{kor}ㄱㅣㅇㅜㄹ,k i u ɭ,0
+{kor}ㄱㅣㅈㅓㄱ,k i d͡ʑ ʌ̹ k̚,0
+{kor}ㄱㅣㅊㅏㄷㅏ,k i t͡ɕʰ a̠ d a̠,0
+{kor}ㄱㅣㅊㅏㅇㅕㄱ,k i t͡ɕʰ a̠ j ʌ̹ k̚,0
+{kor}ㄱㅣㅊㅗ,k i t͡ɕʰ o̞,0
+{kor}ㄱㅣㅎㅏㄱ,k iː ɦ a̠ k̚,0
+{kor}ㄱㅣㅎㅚ,k i β w e̞,0
+{kor}ㄱㅣㅁㅂㅏㅂ,k iː m p͈ a̠ p̚,0
+{kor}ㄱㅣㅅㅌㅓㄹ,k i t̚ tʰ ʌ̹ ɭ,0
+{kor}ㄲㅏㄹㅔㄹㄹㅣㅇㅑ,k͈ a̠ ɾ e̞ ʎ ʎ i j a̠,0
+{kor}ㄲㅏㅁㄷㅜㅇㅇㅣ,k͈ a̠ m d u ŋ i,0
+{kor}ㄲㅗㅊㅁㅣㄴㅏㅁ,k͈ o̞ n m i n a̠ m,0
+{kor}ㄲㅜㅅㄲㅜㅅㅎㅏㄷㅏ,k͈ u t̚ k͈ u tʰ a̠ d a̠,0
+{kor}ㄲㅡㅌㅡㄹㅓㄱㅣ,k͈ ɯ tʰ ɯ ɾ ʌ̹ ɡ i,0
+{kor}ㄴㅏㄱㅡㄴㅔ,n a̠ ɡ ɯ n e̞,0
+{kor}ㄴㅏㅁㅜㄱㅏㅈㅣ,n a̠ m u ɡ a̠ d͡ʑ i,0
+{kor}ㄴㅏㅃㅏㅈㅣㄷㅏ,n a̠ p͈ a̠ d͡ʑ i d a̠,0
+{kor}ㄴㅏㄱㅈㅔ,n a̠ k̚ t͡ɕ͈ e̞,0
+{kor}ㄴㅏㄹㅈㅗ,n a̠ ʎ d͡ʑ o̞,0
+{kor}ㄴㅏㅁㄴㅕㅋ,n a̠ m ɲ j ʌ̹ k̚,0
+{kor}ㄴㅏㅁㅇㅏㅍㅡㄹㅣㅋㅏㄱㅗㅇㅎㅘㄱㅜㄱ,n a̠ m a̠ pʰ ɯ ɾ i kʰ a̠ ɡ o̞ ŋ β w a̠ ɡ u k̚,0
+{kor}ㄴㅏㅁㅈㅏ,n a̠ m d͡ʑ a̠,0
+{kor}ㄴㅏㅂㄹㅑㅇ,n a̠ m ɲ j a̠ ŋ,0
+{kor}ㄴㅏㅂㅍㅜㅁ,n a̠ p̚ pʰ u m,0
+{kor}ㄴㅐㄱㅏㄱ,n ɛː ɡ a̠ k̚,0
+{kor}ㄴㅐㄷㅏ,n ɛː d a̠,0
+{kor}ㄴㅐㅅㅔ,n ɛː sʰ e̞,0
+{kor}ㄴㅓㄱㅜㄹㅣ,n ʌ̹ ɡ u ɾ i,0
+{kor}ㄴㅓㄹㅉㅜㄷㅏ,n ʌ̹ ʎ t͡ɕ͈ u d a̠,0
+{kor}ㄴㅔㄷㅓㄹㄹㅏㄴㄷㅡ,n e̞ d ʌ̹ ɭ ɭ a̠ n d ɯ,0
+{kor}ㄴㅔㅇㅏㄴㄷㅔㄹㅡㅌㅏㄹㅇㅣㄴ,n e̞ a̠ n d e̞ ɾ ɯ tʰ a̠ ɾ i n,0
+{kor}ㄴㅗㄱㅏㄷㅏ,n o̞ ɡ a̠ d a̠,0
+{kor}ㄴㅗㄹㅡㅁㄲㅜㄴ,n o̞ ɾ ɯ m k͈ u n,0
+{kor}ㄴㅗㅊㅜㄹ,n o̞ t͡ɕʰ u ɭ,0
+{kor}ㄴㅗㅎㅘ,n o̞ː β w a̠,0
+{kor}ㄴㅗㅎㅚㄱ,n o̞ β w e̞ k̚,0
+{kor}ㄴㅗㄹㄷㅏ,n o̞ː ɭ d a̠,0
+{kor}ㄴㅗㄹㅇㅣㄲㅜㄴ,n o̞ ɾ i k͈ u n,0
+{kor}ㄴㅗㅇㅎㅜㅎㅏㄷㅏ,n o̞ ŋ β u ɦ a̠ d a̠,0
+{kor}ㄴㅜㄹㅓㅇㅇㅣ,n u ɾ ʌ̹ ŋ i,0
+{kor}ㄴㅜㄹㅓㅎㄷㅏ,n uː ɾ ʌ̹ tʰ a̠,0
+{kor}ㄴㅜㅅㅓㄹㅎㅏㄷㅏ,n uː sʰ ʌ̹ ɾ ɦ a̠ d a̠,0
+{kor}ㄴㅜㄴㄷㅗㅇㅈㅏ,n u n t͈ o̞ ŋ d͡ʑ a̠,0
+{kor}ㄴㅜㄴㅆㅓㅂ,n u n s͈ ʌ̹ p̚,0
+{kor}ㄴㅠㅂㅣ,ɲ j u b i,0
+{kor}ㄴㅡㄲㅣㅁㅍㅛ,n ɯ k͈ i m pʰ j o,0
+{kor}ㄴㅡㅌㅣㄴㅏㅁㅜ,n ɯ tʰ i n a̠ m u,0
+{kor}ㄴㅡㄹㅇㅓㅅㅓㄷㅏ,n ɯ ɾ ʌ̹ sʰ ʌ̹ d a̠,0
+{kor}ㄴㅡㄺㅇㅡㄴㅇㅣ,n ɯ ɭ ɡ ɯ n i,0
+{kor}ㄴㅣㅂㄷㅏ,n i p̚ t͈ a̠,0
+{kor}ㄴㅣㅇㄲㅏ,n i ŋ k͈ a̠,0
+{kor}ㄷㅏㄹㅏㅇㅇㅓ,t a̠ ɾ a̠ ŋ ʌ̹,0
+{kor}ㄷㅏㄹㅡㅇㅔㅅㅡㅅㅏㄹㄹㅏㅁ,t a̠ ɾ ɯ e̞ sʰ ɯ sʰ a̠ ɭ ɭ a̠ m,0
+{kor}ㄷㅏㄹㅡㅁㅇㅓㅄㄷㅏ,t a̠ ɾ ɯ m ʌ̹ p̚ t͈ a̠,0
+{kor}ㄷㅏㄹㅣㅁㅣㅈㅣㄹㅎㅏㄷㅏ,t a̠ ɾ i m i d͡ʑ i ɾ ɦ a̠ d a̠,0
+{kor}ㄷㅏㄴㅁㅜㄹ,t a̠ n m u ɭ,0
+{kor}ㄷㅏㄴㅇㅡㅁ,t a̠ n ɯ m,0
+{kor}ㄷㅏㄴㅊㅜ,t a̠ ɲ t͡ɕʰ u,0
+{kor}ㄷㅏㄴㅍㅜㅇㄴㅏㅁㅜ,t a̠ n pʰ u ŋ n a̠ m u,0
+{kor}ㄷㅏㄹㄱㅜㅈㅣ,t a̠ ɭ ɡ u d͡ʑ i,0
+{kor}ㄷㅏㄹㅎㅏㄷㅏ,t a̠ ɾ ɦ a̠ d a̠,0
+{kor}ㄷㅏㄻㄷㅏ,t a̠ː m t͈ a̠,0
+{kor}ㄷㅏㅁㅂㅗㅁㅜㄹ,t a̠ m b o̞ m u ɭ,0
+{kor}ㄷㅏㅂㅅㅣㄴ,t a̠ p ɕ͈ i n,0
+{kor}ㄷㅏㅇㅅㅣㄴ,t a̠ ŋ ɕʰ i n,0
+{kor}ㄷㅏㅇㅅㅣㄴㄷㅡㄹ,t a̠ ŋ ɕʰ i n d ɯ ɭ,0
+{kor}ㄷㅏㅇㅈㅏㅇ,t a̠ ŋ d͡ʑ a̠ ŋ,0
+{kor}ㄷㅏㅇㅎㅏㄷㅏ,t a̠ ŋ ɦ a̠ d a̠,0
+{kor}ㄷㅏㅎㅅㅗㄹㅣ,t a̠ s͈ o̞ ɾ i,0
+{kor}ㄷㅐㄷㅏㅅㅜ,t ɛː d a̠ sʰ u,0
+{kor}ㄷㅐㅇㅡㅇㅎㅏㄷㅏ,t ɛː ɯ ŋ ɦ a̠ d a̠,0
+{kor}ㄷㅐㅌㅗㅇㄹㅕㅇ,t ɛː tʰ o̞ ŋ ɲ j ʌ̹ ŋ,0
+{kor}ㄷㅐㅌㅚㅅㅏㄷㅜㄱㅡㄴ,t ɛː tʰ w e̞ sʰ a̠ d u ɡ ɯ n,0
+{kor}ㄷㅐㅎㅏㄷㅏ,t ɛː ɦ a̠ d a̠,0
+{kor}ㄷㅐㅎㅘ,t ɛː β w a̠,0
+{kor}ㄷㅓㅂㄷㅏ,t ɘː p̚ t͈ a̠,0
+{kor}ㄷㅓㅅㅂㅜㅌㄷㅏ,t ʌ̹ t̚ p͈ u t̚ t͈ a̠,0
+{kor}ㄷㅔㄹㅕㅇㅗㄷㅏ,t e̞ ɾ j ʌ̹ o̞ d a̠,0
+{kor}ㄷㅗㅅㅏㄹㅈㅏㅇ,t o̞ sʰ a̠ ʎ t͡ɕ͈ a̠ ŋ,0
+{kor}ㄷㅗㅇㅏㄴ,t o̞ a̠ n,0
+{kor}ㄷㅗㅈㅜㅇ,t o̞ː d͡ʑ u ŋ,0
+{kor}ㄷㅗㅌㅗㄹㅣ,t o̞ tʰ o̞ ɾ i,0
+{kor}ㄷㅗㄴㄱㅏㅅㅡ,t o̞ n ɡ a̠ sʰ ɯ,0
+{kor}ㄷㅗㄹㅇㅏㄷㅏㄴㅣㄷㅏ,t o̞ ɾ a̠ d a̠ n i d a̠,0
+{kor}ㄷㅗㄹㅇㅕㄴㅅㅏ,t o̞ ɾ j ʌ̹ n sʰ a̠,0
+{kor}ㄷㅗㄹㅍㅏ,t o̞ ɭ pʰ a̠,0
+{kor}ㄷㅗㅇㄱㅜㄹ,t o̞ː ŋ ɡ u ɭ,0
+{kor}ㄷㅗㅇㅁㅜㄹㅇㅝㄴ,t o̞ː ŋ m u ɾ w ʌ̹ n,0
+{kor}ㄷㅗㅇㅂㅏㅇ,t o̞ ŋ b a̠ ŋ,0
+{kor}ㄷㅗㅇㅅㅏ,t o̞ ŋ sʰ a̠,0
+{kor}ㄷㅗㅇㅇㅣㄹ,t o̞ ŋ i ɭ,0
+{kor}ㄷㅗㅇㅈㅓㄴㅈㅜ,t o̞ ŋ d͡ʑ ʌ̹ ɲ d͡ʑ u,0
+{kor}ㄷㅗㅇㅌㅣㅁㅗㄹㅡ,t o̞ ŋ tʰ i m o̞ ɾ ɯ,0
+{kor}ㄷㅜㄲㅔ,t u k͈ e̞,0
+{kor}ㄷㅟㅂㅗㄷㅏ,t ɥ i b o̞ d a̠,0
+{kor}ㄷㅡㄹㅏㅇㅣㅂㅡ,t ɯ ɾ a̠ i b ɯ,0
+{kor}ㄷㅡㄹㄱㅓㅅ,t ɯ ɭ ɡ ʌ̹ t̚,0
+{kor}ㄷㅡㄹㄱㅜㄱㅎㅘ,t ɯ ɭ ɡ u kʰ w a̠,0
+{kor}ㄷㅡㄹㅅㅜㅁ,t ɯ ɭ sʰ u m,0
+{kor}ㄷㅡㄹㅇㅓㅇㅗㄷㅏ,t ɯ ɾ ʌ̹ o̞ d a̠,0
+{kor}ㄷㅡㄹㅇㅕㄷㅏㅂㅗㄷㅏ,t ɯ ɾ j ʌ̹ d a̠ b o̞ d a̠,0
+{kor}ㄷㅡㄹㅍㅏㄴ,t ɯː ɭ pʰ a̠ n,0
+{kor}ㄷㅡㅇㄹㅗㄱ,t ɯ ŋ n o̞ k̚,0
+{kor}ㄷㅡㅇㅂㅏㄴ,t ɯ ŋ b a̠ n,0
+{kor}ㄷㅡㅇㅅㅣㄴ,t ɯː ŋ ɕʰ i n,0
+{kor}ㄸㅏㅅㅏㄹㅗㅂㄷㅏ,t͈ a̠ sʰ a̠ ɾ o̞ p̚ t͈ a̠,0
+{kor}ㄸㅏㅇㅗㅁㅍㅛ,t͈ a̠ o̞ m pʰ j o,0
+{kor}ㄸㅏㄹㄲㅜㄱㅈㅣㄹㅎㅏㄷㅏ,t͈ a̠ ɭ k͈ u k̚ t͡ɕ͈ i ɾ ɦ a̠ d a̠,0
+{kor}ㄸㅏㅇㅋㅗㅇ,t͈ a̠ ŋ kʰ o̞ ŋ,0
+{kor}ㄸㅓㄴㅏㄷㅏ,t͈ ʌ̹ n a̠ d a̠,0
+{kor}ㄸㅔㄷㅏ,t͈ e̞ː d a̠,0
+{kor}ㄸㅔㅅㅁㅗㄱ,t͈ e̞ n m o̞ k̚,0
+{kor}ㄸㅗㄱㄸㅗㄱㅇㅣ,t͈ o̞ k̚ t͈ o̞ ɡ i,0
+{kor}ㄸㅗㄱㄸㅗㄱㅎㅏㄷㅏ,t͈ o̞ k̚ t͈ o̞ kʰ a̠ d a̠,0
+{kor}ㄸㅜㄲㅓㅇ,t͈ u k͈ ʌ̹ ŋ,0
+{kor}ㄸㅡㄷㄱㅣ,t͈ ɯ t̚ k͈ i,0
+{kor}ㄸㅣㅁㅜㄴㅢㅁㅜㄹㅂㅓㅁ,t͈ i m u n i m u ɭ b ʌ̹ m,0
+{kor}ㄸㅣㅇㅎㅗㅇㅏ,t͈ i ŋ β o̞ a̠,0
+{kor}ㄹㅏㅈㅏㄴㅑ,ɾ a̠ d͡ʑ a̠ ɲ j a̠,0
+{kor}ㄹㅏㅍㅏㅇㅔㄹ,ɾ a̠ pʰ a̠ e̞ ɭ,0
+{kor}ㄹㅏㅎㅏㄴ,ɾ a̠ ɦ a̠ n,0
+{kor}ㄹㅏㅂㅂㅣ,ɾ a̠ p̚ p͈ i,0
+{kor}ㄹㅓㅅㅣㅇㅏㅁㅏㄹ,ɾ ʌ̹ ɕʰ i a̠ m a̠ ɭ,0
+{kor}ㄹㅓㄱㅂㅣ,ɾ ʌ̹ k̚ p͈ i,0
+{kor}ㄹㅔㅇㅣㄴㅈㅣ,ɾ e̞ i ɲ d͡ʑ i,0
+{kor}ㄹㅗㅁㅏㅈㅏ,ɾ o̞ m a̠ d͡ʑ a̠,0
+{kor}ㄹㅗㅂㅗㅅ,ɾ o̞ b o̞ t̚,0
+{kor}ㄹㅗㅆㅣㅇㅑㅇㅣㄴ,ɾ o̞ ɕ͈ i j a̠ i n,0
+{kor}ㄹㅜㅅㅣ,ɾ u ɕʰ i,0
+{kor}ㄹㅣㅂㅗㄴ,ɾ i b o̞ n,0
+{kor}ㅁㅏㄱㅏㄹㅣㄴ,m a̠ ɡ a̠ ɾ i n,0
+{kor}ㅁㅏㄱㅡㄴㅔㅅㅠㅁ,m a̠ ɡ ɯ n e̞ ɕʰ u m,0
+{kor}ㅁㅏㄹㅜㅌㅏ,m a̠ ɾ u tʰ a̠,0
+{kor}ㅁㅏㄹㅣㅎㅘㄴㅏ,m a̠ ɾ i β w a̠ n a̠,0
+{kor}ㅁㅏㅁㅓㅅ,m a̠ m ʌ̹ t̚,0
+{kor}ㅁㅏㅂㅜ,m a̠ b u,0
+{kor}ㅁㅏㅂㅣ,m a̠ː b i,0
+{kor}ㅁㅏㅅㅡㅋㅏㄹㅏ,m a̠ sʰ ɯ kʰ a̠ ɾ a̠,0
+{kor}ㅁㅏㅋㅏㅇㅗ,m a̠ kʰ a̠ o̞,0
+{kor}ㅁㅏㅍㅏㄹㄷㅔ,m a̠ pʰ a̠ ɭ d e̞,0
+{kor}ㅁㅏㄴㄷㅜ,m a̠ n d u,0
+{kor}ㅁㅏㄴㄷㅡㄹㅇㅓㅈㅣㄷㅏ,m a̠ n d ɯ ɾ ʌ̹ d͡ʑ i d a̠,0
+{kor}ㅁㅏㄴㅂㅏㄹ,m a̠ː n b a̠ ɭ,0
+{kor}ㅁㅏㄴㅂㅕㅇㅌㅗㅇㅊㅣㅇㅑㄱ,m a̠ː n b j ʌ̹ ŋ tʰ o̞ ŋ t͡ɕʰ i j a̠ k̚,0
+{kor}ㅁㅏㄴㅅㅔ,m a̠ː n sʰ e̞,0
+{kor}ㅁㅏㄴㅅㅜ,m a̠ː n sʰ u,0
+{kor}ㅁㅏㄴㅎㅘㄱㅏ,m a̠ː n β w a̠ ɡ a̠,0
+{kor}ㅁㅏㄶㅇㅏㅈㅣㄷㅏ,m a̠ː n a̠ d͡ʑ i d a̠,0
+{kor}ㅁㅏㄹㄴㅏㅅㅣㄱ,m a̠ ɭ ɭ a̠ ɕʰ i k̚,0
+{kor}ㅁㅏㄹㄸㅗㅇㄱㅏㄹㅣ,m a̠ ɭ t͈ o̞ ŋ ɡ a̠ ɾ i,0
+{kor}ㅁㅏㄹㄸㅜㄱㅁㅏㅇㄷㅜㅇㅇㅓ,m a̠ ɭ t͈ u ŋ m a̠ ŋ d u ŋ ʌ̹,0
+{kor}ㅁㅏㄹㅇㅓㅄㅇㅣ,m a̠ː ɾ ʌ̹ p ɕ͈ i,0
+{kor}ㅁㅏㄹㅎㅏㄱㅣ,m a̠ː ɾ ɦ a̠ ɡ i,0
+{kor}ㅁㅏㅅㅈㅣㅂ,m a̠ t̚ t͡ɕ͈ i p̚,0
+{kor}ㅁㅏㅇㅁㅕㅇ,m a̠ ŋ m j ʌ̹ ŋ,0
+{kor}ㅁㅏㅇㅇㅝㄴㄱㅕㅇ,m a̠ː ŋ w ʌ̹ n ɡ j ʌ̹ ŋ,0
+{kor}ㅁㅏㅇㅎㅏㄷㅏ,m a̠ ŋ ɦ a̠ d a̠,0
+{kor}ㅁㅏㅈㄷㅏ,m a̠ t̚ t͈ a̠,0
+{kor}ㅁㅏㅈㅇㅡㄴㅍㅕㄴ,m a̠ d͡ʑ ɯ n pʰ j ʌ̹ n,0
+{kor}ㅁㅐㄷㅏ,m ɛː d a̠,0
+{kor}ㅁㅓㄹㅣㅁㅜㄹㅂㅣㄴㅜ,m ʌ̹ ɾ i m u ɭ b i n u,0
+{kor}ㅁㅓㄱㄱㅜㄹㅡㅁ,m ʌ̹ k̚ k͈ u ɾ ɯ m,0
+{kor}ㅁㅓㅇㅁㅓㅇㅇㅣ,m ʌ̹ ŋ m ʌ̹ ŋ i,0
+{kor}ㅁㅔㅅㅣㅈㅣ,m e̞ ɕʰ i d͡ʑ i,0
+{kor}ㅁㅔㅎㅣㄲㅗ,m e̞ ʝ i k͈ o̞,0
+{kor}ㅁㅔㄱㅅㅣㅋㅗ,m e̞ k ɕ͈ i kʰ o̞,0
+{kor}ㅁㅔㄹㄹㅗㄷㅣ,m e̞ ɭ ɭ o̞ d i,0
+{kor}ㅁㅔㅁㅂㅓ,m e̞ m b ʌ̹,0
+{kor}ㅁㅕㄴㄷㅗ,m j ɘː n d o̞,0
+{kor}ㅁㅕㄹㅅㅣ,m j ʌ̹ ɭ ɕʰ i,0
+{kor}ㅁㅕㅇㄹㅏㄴ,m j ʌ̹ ŋ n a̠ n,0
+{kor}ㅁㅗㄹㅗㄴㅣ,m o̞ ɾ o̞ n i,0
+{kor}ㅁㅗㄹㅡㄷㅏ,m o̞ː ɾ ɯ d a̠,0
+{kor}ㅁㅗㅅㅡㄹㅍㅗ,m o̞ sʰ ɯ ɭ pʰ o̞,0
+{kor}ㅁㅗㅈㅏㅇㅣㅋㅡ,m o̞ d͡ʑ a̠ i k x ɯ,0
+{kor}ㅁㅗㅌㅓ,m o̞ tʰ ʌ̹,0
+{kor}ㅁㅗㄱㄹㅗㄱ,m o̞ ŋ n o̞ k̚,0
+{kor}ㅁㅗㄱㅅㅓㅇ,m o̞ k s͈ ʌ̹ ŋ,0
+{kor}ㅁㅗㄱㅅㅗㄹㅣ,m o̞ k s͈ o̞ ɾ i,0
+{kor}ㅁㅗㄱㅎㅘ,m o̞ kʰ w a̠,0
+{kor}ㅁㅗㄴㅅㅡㅌㅓ,m o̞ n sʰ ɯ tʰ ʌ̹,0
+{kor}ㅁㅗㅇㄱㅏㅇ,m o̞ ŋ ɡ a̠ ŋ,0
+{kor}ㅁㅗㅇㄱㅗㄹㅇㅓ,m o̞ ŋ ɡ o̞ ɾ ʌ̹,0
+{kor}ㅁㅜㄴㅡㅇㄹㅕㄱ,m u n ɯ ŋ ɲ j ʌ̹ k̚,0
+{kor}ㅁㅜㄷㅏㄱㄷㅔㄱㅣ,m u d a̠ k̚ t͈ e̞ ɡ i,0
+{kor}ㅁㅜㄷㅏㅇㅂㅓㄹㄹㅔ,m u d a̠ ŋ b ʌ̹ ɭ ɭ e̞,0
+{kor}ㅁㅜㄷㅓㅁ,m u d ʌ̹ m,0
+{kor}ㅁㅜㅅㅓㅇㅎㅏㄷㅏ,m uː sʰ ʌ̹ ŋ ɦ a̠ d a̠,0
+{kor}ㅁㅜㅅㅡㄴ,m u sʰ ɯ n,0
+{kor}ㅁㅜㅅㅡㄹㄹㅣㅁ,m u sʰ ɯ ʎ ʎ i m,0
+{kor}ㅁㅜㅇㅛㅇㅎㅏㄷㅏ,m u j o ŋ ɦ a̠ d a̠,0
+{kor}ㅁㅜㄴㄱㅜㅈㅓㅁ,m u n ɡ u d͡ʑ ʌ̹ m,0
+{kor}ㅁㅜㄴㄷㅡㄱ,m u n d ɯ k̚,0
+{kor}ㅁㅜㄴㅇㅓㄷㅏㄹㅣ,m u n ʌ̹ d a̠ ɾ i,0
+{kor}ㅁㅜㄴㅈㅏㅇ,m u ɲ d͡ʑ a̠ ŋ,0
+{kor}ㅁㅜㄴㅈㅣㄱㅣ,m u ɲ d͡ʑ i ɡ i,0
+{kor}ㅁㅜㄷㅎㅣㄷㅏ,m u tʰ i d a̠,0
+{kor}ㅁㅜㄹㄱㅕㄹ,m u ɭ k͈ j ʌ̹ ɭ,0
+{kor}ㅁㅜㄹㅇㅗㄹㅣ,m u ɾ o̞ ɾ i,0
+{kor}ㅁㅣㄴㅜㅅㅡ,m i n u sʰ ɯ,0
+{kor}ㅁㅣㄹㅗ,m iː ɾ o̞,0
+{kor}ㅁㅣㅅㅗ,m i sʰ o̞,0
+{kor}ㅁㅣㅅㅜㅅㄱㅏㄹㅜ,m i sʰ u t̚ k͈ a̠ ɾ u,0
+{kor}ㅁㅣㅇㅏㄴㅎㅏㄷㅏ,m i a̠ n ɦ a̠ d a̠,0
+{kor}ㅁㅣㅇㅛㅇㅅㅏ,m iː j o ŋ sʰ a̠,0
+{kor}ㅁㅣㅇㅛㅇㅇㅝㄴ,m iː j o ŋ w ʌ̹ n,0
+{kor}ㅁㅣㅇㅠㄱㅣ,m i j u ɡ i,0
+{kor}ㅁㅣㅈㅏㅇㅇㅝㄴ,m iː d͡ʑ a̠ ŋ w ʌ̹ n,0
+{kor}ㅁㅣㅊㅣㄴ,m i t͡ɕʰ i n,0
+{kor}ㅁㅣㄴㅂㅏㄱ,m i n b a̠ k̚,0
+{kor}ㅁㅣㄴㅈㅗㄱ,m i ɲ d͡ʑ o̞ k̚,0
+{kor}ㅁㅣㄴㅈㅜㅎㅘ,m i ɲ d͡ʑ u β w a̠,0
+{kor}ㅁㅣㄴㅊㅓㅂㅅㅓㅇ,m i ɲ t͡ɕʰ ʌ̹ p s͈ ʌ̹ ŋ,0
+{kor}ㅂㅏㄹㅗㄱㅏㄱㅣ,p a̠ ɾ o̞ ɡ a̠ ɡ i,0
+{kor}ㅂㅏㅆㅏㄱㅂㅏㅆㅏㄱ,p a̠ s͈ a̠ k̚ p͈ a̠ s͈ a̠ k̚,0
+{kor}ㅂㅏㅇㅣㄴㅓㄹㅣ,p a̠ i n ʌ̹ ɾ i,0
+{kor}ㅂㅏㅋㅟㅂㅓㄹㄹㅔ,p a̠ kʰ ɥ i b ʌ̹ ɭ ɭ e̞,0
+{kor}ㅂㅏㄴㄱㅏㅂㄷㅏ,p a̠ n ɡ a̠ p̚ t͈ a̠,0
+{kor}ㅂㅏㄴㄱㅗㅇ,p a̠ː n ɡ o̞ ŋ,0
+{kor}ㅂㅏㄴㄹㅏㄴ,p a̠ː ɭ ɭ a̠ n,0
+{kor}ㅂㅏㄴㅁㅜㄹㅈㅣㄹ,p a̠ː n m u ʎ t͡ɕ͈ i ɭ,0
+{kor}ㅂㅏㄴㅅㅏㄱㅕㅇ,p a̠ː n sʰ a̠ ɡ j ʌ̹ ŋ,0
+{kor}ㅂㅏㄴㅈㅣ,p a̠ ɲ d͡ʑ i,0
+{kor}ㅂㅏㄴㅊㅣㄱ,p a̠ː ɲ t͡ɕʰ i k̚,0
+{kor}ㅂㅏㄹㄱㅜㅈㅣ,p a̠ ɭ ɡ u d͡ʑ i,0
+{kor}ㅂㅏㄹㄷㅏㄹ,p a̠ ɭ t͈ a̠ ɭ,0
+{kor}ㅂㅏㄹㄷㅏㄹㅎㅏㄷㅏ,p a̠ ɭ t͈ a̠ ɾ ɦ a̠ d a̠,0
+{kor}ㅂㅏㄹㄹㅔㅌㅏ,p a̠ ɭ ɭ e̞ tʰ a̠,0
+{kor}ㅂㅏㄹㅈㅓㄴ,p a̠ ʎ t͡ɕ͈ ʌ̹ n,0
+{kor}ㅂㅏㅇㅅㅗㅇㅅㅏ,p a̠ː ŋ sʰ o̞ ŋ sʰ a̠,0
+{kor}ㅂㅏㅇㅇㅏㄴ,p a̠ ŋ a̠ n,0
+{kor}ㅂㅏㅇㅇㅜㄹ,p a̠ ŋ u ɭ,0
+{kor}ㅂㅓㅁㅣㄷㅗㄹ,p ʌ̹ m i d o̞ ɭ,0
+{kor}ㅂㅓㅅㅡ,p͈ ʌ̹ sʰ ɯ,0
+{kor}ㅂㅓㅌㅓ,p ʌ̹ tʰ ʌ̹,0
+{kor}ㅂㅓㅌㅡㄴ,p ʌ̹ tʰ ɯ n,0
+{kor}ㅂㅓㄴㅉㅓㄱ,p ʌ̹ ɲ t͡ɕ͈ ʌ̹ k̚,0
+{kor}ㅂㅓㄹㄱㅡㅁ,p ʌ̹ ɭ ɡ ɯ m,0
+{kor}ㅂㅓㄹㄹㅔ,p ʌ̹ ɭ ɭ e̞,0
+{kor}ㅂㅓㅂㅊㅣㄱ,p ʌ̹ p̚ t͡ɕʰ i k̚,0
+{kor}ㅂㅔㄲㅣㄷㅏ,p e̞ k͈ i d a̠,0
+{kor}ㅂㅔㄹㅏㄴㄷㅏ,p e̞ ɾ a̠ n d a̠,0
+{kor}ㅂㅔㅇㅣㄹ,p e̞ i ɭ,0
+{kor}ㅂㅔㄱㅌㅓ,p e̞ k̚ tʰ ʌ̹,0
+{kor}ㅂㅔㄹㄹㅗㄹㅜㅅㅣ,p e̞ ɭ ɭ o̞ ɾ u ɕʰ i,0
+{kor}ㅂㅗㄱㅡㅂ,p o̞ː ɡ ɯ p̚,0
+{kor}ㅂㅗㄷㅗ,p o̞ː d o̞,0
+{kor}ㅂㅗㄹㅡㅁㄷㅏㄹ,p o̞ ɾ ɯ m t͈ a̠ ɭ,0
+{kor}ㅂㅗㅅㅓㄱㅅㅏㅇ,p o̞ː sʰ ʌ̹ k s͈ a̠ ŋ,0
+{kor}ㅂㅗㅅㅡㄹㅏㄱㅂㅗㅅㅡㄹㅏㄱ,p o̞ sʰ ɯ ɾ a̠ k̚ p͈ o̞ sʰ ɯ ɾ a̠ k̚,0
+{kor}ㅂㅗㅈㅗㄴ,p o̞ː d͡ʑ o̞ n,0
+{kor}ㅂㅗㄱㄹㅣ,p o̞ ŋ n i,0
+{kor}ㅂㅗㄱㅁㅜㅎㅏㄷㅏ,p o̞ ŋ m u ɦ a̠ d a̠,0
+{kor}ㅂㅗㄱㅈㅏㅇ,p o̞ k̚ t͡ɕ͈ a̠ ŋ,0
+{kor}ㅂㅗㄱㅈㅣ,p o̞ k̚ t͡ɕ͈ i,0
+{kor}ㅂㅗㄴㄱㅕㄱㅈㅓㄱ,p o̞ n k͈ j ʌ̹ k̚ t͡ɕ͈ ʌ̹ k̚,0
+{kor}ㅂㅗㄴㄱㅘㄴ,p o̞ n ɡ w a̠ n,0
+{kor}ㅂㅜㄱㅡㄹㅂㅜㄱㅡㄹ,p u ɡ ɯ ɭ b u ɡ ɯ ɭ,0
+{kor}ㅂㅜㄷㅏㅁ,p uː d a̠ m,0
+{kor}ㅂㅜㄹㅡㅂㄸㅡㄷㅏ,p u ɾ ɯ p̚ t͈ ɯ d a̠,0
+{kor}ㅂㅜㅅㅓㄱ,p u sʰ ʌ̹ k̚,0
+{kor}ㅂㅜㅅㅣ,p u ɕʰ i,0
+{kor}ㅂㅜㅇㅓㅋ,p u ʌ̹ k̚,0
+{kor}ㅂㅜㅈㅏㅅㅈㅣㅂ,p uː d͡ʑ a̠ t̚ t͡ɕ͈ i p̚,0
+{kor}ㅂㅜㅈㅓㅇㅈㅓㄱ,p uː d͡ʑ ʌ̹ ŋ d͡ʑ ʌ̹ k̚,0
+{kor}ㅂㅜㅎㅘㄹㅈㅓㄹ,p uː β w a̠ ʎ t͡ɕ͈ ʌ̹ ɭ,0
+{kor}ㅂㅜㄱㄱㅚ,p u k̚ k͈ w e̞,0
+{kor}ㅂㅜㄱㄱㅡㄱ,p u k̚ k͈ ɯ k̚,0
+{kor}ㅂㅜㄱㄷㅗㅇ,p u k̚ t͈ o̞ ŋ,0
+{kor}ㅂㅜㄱㅈㅏㅇ,p u k̚ t͡ɕ͈ a̠ ŋ,0
+{kor}ㅂㅜㄱㅈㅗㅅㅓㄴ,p u k̚ t͡ɕ͈ o̞ sʰ ʌ̹ n,0
+{kor}ㅂㅜㄱㅎㅏㄴ,p u kʰ a̠ n,0
+{kor}ㅂㅜㄴㅅㅓㄱ,p u n sʰ ʌ̹ k̚,0
+{kor}ㅂㅜㄹㄱㅜ,p u ɭ ɡ u,0
+{kor}ㅂㅜㄹㄱㅡㅁ,p u ɭ ɡ ɯ m,0
+{kor}ㅂㅜㄹㄱㅣ,p u ɭ ɡ i,0
+{kor}ㅂㅜㄹㄸㅜㄱ,p u ɭ t͈ u k̚,0
+{kor}ㅂㅜㄹㅅㅏㅇㅅㅏ,p u ɭ s͈ a̠ ŋ sʰ a̠,0
+{kor}ㅂㅜㄹㅅㅓㅇ,p u ɭ s͈ ʌ̹ ŋ,0
+{kor}ㅂㅜㄺㅇㅡㄴㄱㅣ,p u ɭ ɡ ɯ n ɡ i,0
+{kor}ㅂㅜㅅㄷㅏ,p uː t̚ t͈ a̠,0
+{kor}ㅂㅣㄱㅛ,p iː ɡ j o,0
+{kor}ㅂㅣㅂㅣㄷㅏ,p i b i d a̠,0
+{kor}ㅂㅣㅂㅣㅁㅂㅏㅂ,p i b i m p͈ a̠ p̚,0
+{kor}ㅂㅣㅅㅏㅇㅎㅏㄷㅏ,p iː sʰ a̠ ŋ ɦ a̠ d a̠,0
+{kor}ㅂㅣㅆㅏㄷㅏ,p i s͈ a̠ d a̠,0
+{kor}ㅂㅣㅈㅏㄴㅌㅣㅇㅗㄴ,p i d͡ʑ a̠ n tʰ i o̞ n,0
+{kor}ㅂㅣㄴㅁㅣㄴㄱㅏ,p i n m i n ɡ a̠,0
+{kor}ㅂㅣㅇㅎㅏㅈㅟ,p i ŋ ɦ a̠ d͡ʑ ɥ i,0
+{kor}ㅂㅣㅊㄲㅏㄹ,p i t̚ k͈ a̠ ɭ,0
+{kor}ㅃㅏㄱㅜㄹㅣ,p͈ a̠ ɡ u ɾ i,0
+{kor}ㅃㅏㅅㅏㄱㅃㅏㅅㅏㄱ,p͈ a̠ sʰ a̠ k̚ p͈ a̠ sʰ a̠ k̚,0
+{kor}ㅃㅏㅈㅣㄷㅏ,p͈ a̠ː d͡ʑ i d a̠,0
+{kor}ㅃㅏㅇㅈㅣㅂ,p͈ a̠ ŋ t͡ɕ͈ i p̚,0
+{kor}ㅃㅜㄹㅣ,p͈ u ɾ i,0
+{kor}ㅃㅜㄹㅣㅎㅗㄱ,p͈ u ɾ i β o̞ k̚,0
+{kor}ㅅㅏㄹㅖ,sʰ a̠ː ɾ j e̞,0
+{kor}ㅅㅏㅁㅏㅇㅈㅏ,sʰ a̠ː m a̠ ŋ d͡ʑ a̠,0
+{kor}ㅅㅏㅂㅏㄴㅏ,sʰ a̠ b a̠ n a̠,0
+{kor}ㅅㅏㅅㅡㄹ,sʰ a̠ sʰ ɯ ɭ,0
+{kor}ㅅㅏㅅㅣㄹㅁㅜㄱㅡㄴ,sʰ a̠ː ɕʰ i ɭ m u ɡ ɯ n,0
+{kor}ㅅㅏㅇㅣㅁ,sʰ a̠ i m,0
+{kor}ㅅㅏㅈㅓㄹ,sʰ a̠ː d͡ʑ ʌ̹ ɭ,0
+{kor}ㅅㅏㅍㅣㄹㄱㅟㅈㅓㅇ,sʰ a̠ː pʰ i ɭ ɡ ɥ i d͡ʑ ʌ̹ ŋ,0
+{kor}ㅅㅏㄴㄷㅜㅇ,sʰ a̠ n d u ŋ,0
+{kor}ㅅㅏㄴㅍㅏ,sʰ a̠ː n pʰ a̠,0
+{kor}ㅅㅏㄹㄱㅡㄴㅅㅏㄹㄱㅡㄴ,sʰ a̠ ɭ ɡ ɯ n sʰ a̠ ɭ ɡ ɯ n,0
+{kor}ㅅㅏㄹㄹㅣㅁㅅㅏㄹㅇㅣ,sʰ a̠ ʎ ʎ i m sʰ a̠ ɾ i,0
+{kor}ㅅㅏㄹㅇㅣㄴ,sʰ a̠ ɾ i n,0
+{kor}ㅅㅏㄹㅊㅣ,sʰ a̠ ʎ t͡ɕʰ i,0
+{kor}ㅅㅏㄹㅍㅗㅅㅣ,sʰ a̠ ɭ pʰ o̞ ɕʰ i,0
+{kor}ㅅㅏㅅㄱㅏㅅ,sʰ a̠ t̚ k͈ a̠ t̚,0
+{kor}ㅅㅏㅅㅍㅗㄹㅗ,sʰ a̠ t̚ pʰ o̞ ɾ o̞,0
+{kor}ㅅㅏㅇㅅㅣㄹ,sʰ a̠ ŋ ɕʰ i ɭ,0
+{kor}ㅅㅏㅇㅌㅡㅍㅔㅌㅔㄹㅡㅂㅜㄹㅡㅋㅡ,sʰ a̠ ŋ tʰ ɯ pʰ e̞ tʰ e̞ ɾ ɯ b u ɾ ɯ k x ɯ,0
+{kor}ㅅㅏㅇㅍㅜㅁ,sʰ a̠ ŋ pʰ u m,0
+{kor}ㅅㅏㅇㅎㅏㄷㅏ,sʰ a̠ ŋ ɦ a̠ d a̠,0
+{kor}ㅅㅐㅇㅈㅟ,sʰ ɛː ŋ d͡ʑ ɥ i,0
+{kor}ㅅㅑㅆㅡ,ɕʰ a̠ s͈ ɯ,0
+{kor}ㅅㅓㄹㅠ,sʰ ʌ̹ ɾ j u,0
+{kor}ㅅㅓㅇㅜㄹ,sʰ ʌ̹ u ɭ,0
+{kor}ㅅㅓㄱㄷㅏㄹ,sʰ ʌ̹ k̚ t͈ a̠ ɭ,0
+{kor}ㅅㅓㄴㅂㅣ,sʰ ʌ̹ n b i,0
+{kor}ㅅㅓㄴㅍㅜㅇ,sʰ ʌ̹ n pʰ u ŋ,0
+{kor}ㅅㅓㄴㅍㅜㅇㄱㅣ,sʰ ʌ̹ n pʰ u ŋ ɡ i,0
+{kor}ㅅㅓㄹㄱㅓㅈㅣ,sʰ ʌ̹ ɭ ɡ ʌ̹ d͡ʑ i,0
+{kor}ㅅㅓㄹㄱㅖ,sʰ ʌ̹ ɭ ɡ j e̞,0
+{kor}ㅅㅓㄹㄱㅖㄷㅗ,sʰ ʌ̹ ɭ ɡ j e̞ d o̞,0
+{kor}ㅅㅓㄹㅊㅣㅎㅏㄷㅏ,sʰ ʌ̹ ʎ t͡ɕʰ i ɦ a̠ d a̠,0
+{kor}ㅅㅓㅇㄱㅔ,sʰ ɘː ŋ ɡ e̞,0
+{kor}ㅅㅓㅇㄴㅕㄴ,sʰ ʌ̹ ŋ ɲ j ʌ̹ n,0
+{kor}ㅅㅓㅇㅅㅓ,sʰ ɘː ŋ sʰ ʌ̹,0
+{kor}ㅅㅓㅇㅅㅣㄴ,sʰ ɘː ŋ ɕʰ i n,0
+{kor}ㅅㅓㅇㅈㅓㄴㅎㅘㄴ,sʰ ɘː ŋ d͡ʑ ʌ̹ n β w a̠ n,0
+{kor}ㅅㅔㄱㅘㄴ,sʰ e̞ː ɡ w a̠ n,0
+{kor}ㅅㅔㅅㅜ,sʰ e̞ː sʰ u,0
+{kor}ㅅㅔㅇㅝㄹ,sʰ e̞ː w ʌ̹ ɭ,0
+{kor}ㅅㅔㅌㅏㄱㅅㅣㄹ,sʰ e̞ː tʰ a̠ k ɕ͈ i ɭ,0
+{kor}ㅅㅔㅍㅗㅈㅣㄹ,sʰ e̞ː pʰ o̞ d͡ʑ i ɭ,0
+{kor}ㅅㅔㄹㄹㅓㄹㅣ,sʰ e̞ ɭ ɭ ʌ̹ ɾ i,0
+{kor}ㅅㅗㄱㅗㄱ,sʰ o̞ː ɡ o̞ k̚,0
+{kor}ㅅㅗㄹㅏㄴㅅㅡㄹㅓㅂㄷㅏ,sʰ o̞ ɾ a̠ n sʰ ɯ ɾ ʌ̹ p̚ t͈ a̠,0
+{kor}ㅅㅗㄹㅣㅂㅈㅏ,sʰ o̞ː ɾ i p̚ t͡ɕ͈ a̠,0
+{kor}ㅅㅗㅅㅓㄹ,sʰ o̞ː sʰ ʌ̹ ɭ,0
+{kor}ㅅㅗㅈㅓㅈ,sʰ o̞ d͡ʑ ʌ̹ t̚,0
+{kor}ㅅㅗㅈㅜㅇㅎㅏㄷㅏ,sʰ o̞ː d͡ʑ u ŋ ɦ a̠ d a̠,0
+{kor}ㅅㅗㅊㅗㅇ,sʰ o̞ː t͡ɕʰ o̞ ŋ,0
+{kor}ㅅㅗㅎㅘㅈㅓㄴ,sʰ o̞ β w a̠ d͡ʑ ʌ̹ n,0
+{kor}ㅅㅗㄱㅁㅏㅇㅡㅁ,sʰ o̞ː ŋ m a̠ ɯ m,0
+{kor}ㅅㅗㄱㅂㅗ,sʰ o̞ k̚ p͈ o̞,0
+{kor}ㅅㅗㄴㅁㅗㄱ,sʰ o̞ n m o̞ k̚,0
+{kor}ㅅㅗㄹㄹㅗ,s͈ o̞ ɭ ɭ o̞,0
+{kor}ㅅㅗㅇㅂㅜ,sʰ o̞ː ŋ b u,0
+{kor}ㅅㅗㅇㅇㅏㅈㅣ,sʰ o̞ ŋ a̠ d͡ʑ i,0
+{kor}ㅅㅚㄱㅏㄹㅂㅏㅌㅈㅟ,sʰ w e̞ ɡ a̠ ɭ b a̠ t̚ t͡ɕ͈ ɥ i,0
+{kor}ㅅㅚㅃㅜㄹㅓㄱㅣ,sʰ w e̞ p͈ u ɾ ʌ̹ ɡ i,0
+{kor}ㅅㅜㄱㅓㄴ,sʰ uː ɡ ʌ̹ n,0
+{kor}ㅅㅜㄴㅚㅎㅚㄷㅏㅁ,sʰ u n w e̞ β w e̞ d a̠ m,0
+{kor}ㅅㅜㄹㅕㅇ,sʰ u ɾ j ʌ̹ ŋ,0
+{kor}ㅅㅜㅁㅕㄴ,sʰ u m j ʌ̹ n,0
+{kor}ㅅㅜㅅㅗㅇㅅㅓㄴ,sʰ u sʰ o̞ ŋ sʰ ʌ̹ n,0
+{kor}ㅅㅜㅇㅓㅄㅇㅣ,sʰ uː ʌ̹ p ɕ͈ i,0
+{kor}ㅅㅜㅈㅓㅇ,sʰ u d͡ʑ ʌ̹ ŋ,0
+{kor}ㅅㅜㅊㅓㅂ,sʰ u t͡ɕʰ ʌ̹ p̚,0
+{kor}ㅅㅜㅍㅜㄹ,sʰ u pʰ u ɭ,0
+{kor}ㅅㅜㅎㅏㅁㅜㄹ,sʰ u ɦ a̠ m u ɭ,0
+{kor}ㅅㅜㅎㅘㄱ,sʰ u β w a̠ k̚,0
+{kor}ㅅㅜㄱㅂㅏㄱ,sʰ u k̚ p͈ a̠ k̚,0
+{kor}ㅅㅜㄱㅅㅗ,sʰ u k s͈ o̞,0
+{kor}ㅅㅜㄱㅅㅣㄱ,sʰ u k ɕ͈ i k̚,0
+{kor}ㅅㅜㄹㅌㅏㄴ,sʰ u ɭ tʰ a̠ n,0
+{kor}ㅅㅜㅁㅂㅏㄲㅗㄱㅈㅣㄹ,sʰ u m b a̠ k͈ o̞ k̚ t͡ɕ͈ i ɭ,0
+{kor}ㅅㅜㅁㅈㅣㄷㅏ,sʰ uː m d͡ʑ i d a̠,0
+{kor}ㅅㅟㅂㅅㅏㄹㅣ,ʃʰ ɥ iː p s͈ a̠ ɾ i,0
+{kor}ㅅㅠㅍㅓ,ɕʰ u pʰ ʌ̹,0
+{kor}ㅅㅠㅍㅓㅅㅡㅌㅏ,ɕʰ u pʰ ʌ̹ sʰ ɯ tʰ a̠,0
+{kor}ㅅㅡㅋㅜㅂㅓㄷㅏㅇㅣㅂㅣㅇ,sʰ ɯ kʰ u b ʌ̹ d a̠ i b i ŋ,0
+{kor}ㅅㅡㅌㅗㄱㅎㅗㄹㄹㅡㅁ,sʰ ɯ tʰ o̞ kʰ o̞ ɭ ɭ ɯ m,0
+{kor}ㅅㅡㅍㅔㅇㅣㄷㅡ,sʰ ɯ pʰ e̞ i d ɯ,0
+{kor}ㅅㅡㄹㄱㅡㄴㅅㅡㄹㄱㅡㄴ,sʰ ɯ ɭ ɡ ɯ n sʰ ɯ ɭ ɡ ɯ n,0
+{kor}ㅅㅡㄹㅅㅡㄹ,sʰ ɯ ɭ sʰ ɯ ɭ,0
+{kor}ㅅㅡㅂㅎㅏㄷㅏ,sʰ ɯ pʰ a̠ d a̠,0
+{kor}ㅅㅡㅇㅇㅛㅇㅊㅏ,sʰ ɯ ŋ j o ŋ t͡ɕʰ a̠,0
+{kor}ㅅㅡㅇㅎㅏㅂㅊㅏ,sʰ ɯ ŋ ɦ a̠ p̚ t͡ɕʰ a̠,0
+{kor}ㅅㅣㄱㅏㄴ,ɕʰ i ɡ a̠ n,0
+{kor}ㅅㅣㄹㅣㅈㅡ,ɕʰ i ɾ i d͡ʑ ɯ,0
+{kor}ㅅㅣㅁㅔㄴㅌㅡ,ɕʰ i m e̞ n tʰ ɯ,0
+{kor}ㅅㅣㅁㅣㄴㄱㅝㄴ,ɕʰ iː m i n k͈ w ʌ̹ n,0
+{kor}ㅅㅣㅅㅏ,ɕʰ iː sʰ a̠,0
+{kor}ㅅㅣㅅㅓㄹ,ɕʰ iː sʰ ʌ̹ ɭ,0
+{kor}ㅅㅣㅇㅝㄹ,ɕʰ i w ʌ̹ ɭ,0
+{kor}ㅅㅣㅎㅏㄴㅍㅗㄱㅌㅏㄴ,ɕʰ i ɦ a̠ n pʰ o̞ k̚ tʰ a̠ n,0
+{kor}ㅅㅣㄱㄱㅏㅁ,ɕʰ i k̚ k͈ a̠ m,0
+{kor}ㅅㅣㄱㄷㅏㅇ,ɕʰ i k̚ t͈ a̠ ŋ,0
+{kor}ㅅㅣㄴㄱㅏㅍㅏ,ɕʰ i n ɡ a̠ pʰ a̠,0
+{kor}ㅅㅣㄴㄷㅔㄹㅔㄹㄹㅏ,ɕʰ i n d e̞ ɾ e̞ ɭ ɭ a̠,0
+{kor}ㅅㅣㄴㅂㅓㅂ,ɕʰ i n p͈ ʌ̹ p̚,0
+{kor}ㅅㅣㄴㅂㅜㄴㅈㅡㅇ,ɕʰ i n b u ɲ t͡ɕ͈ ɯ ŋ,0
+{kor}ㅅㅣㄴㅇㅑㄱ,ɕʰ i ɲ j a̠ k̚,0
+{kor}ㅅㅣㄴㅇㅓ,ɕʰ i n ʌ̹,0
+{kor}ㅅㅣㄹㄹㅣㄴㄷㅓ,ɕʰ i ʎ ʎ i n d ʌ̹,0
+{kor}ㅅㅣㅁㅇㅕㄴ,ɕʰ iː m j ʌ̹ n,0
+{kor}ㅅㅣㅁㅈㅣㅇㅓ,ɕʰ iː m d͡ʑ i ʌ̹,0
+{kor}ㅅㅣㅁㅎㅏㄷㅏ,ɕʰ iː m ɦ a̠ d a̠,0
+{kor}ㅅㅣㅂㅇㅣㅈㅣㅈㅏㅇ,ɕʰ i b i d͡ʑ i d͡ʑ a̠ ŋ,0
+{kor}ㅅㅣㅂㅈㅏㅅㅓㄴ,ɕʰ i p̚ t͡ɕ͈ a̠ sʰ ʌ̹ n,0
+{kor}ㅅㅣㅂㅊㅣㄹ,ɕʰ i p̚ t͡ɕʰ i ɭ,0
+{kor}ㅆㅏㄱㅗㄷㅗㄹㄷㅏ,s͈ a̠ ɡ o̞ d o̞ ɭ d a̠,0
+{kor}ㅆㅏㅇㅅㅣㅇㅗㅅ,s͈ a̠ ŋ ɕʰ i o̞ t̚,0
+{kor}ㅆㅡㄹㅔㄱㅣㅌㅗㅇ,s͈ ɯ ɾ e̞ ɡ i tʰ o̞ ŋ,0
+{kor}ㅆㅡㅊㅘㄴ,s͈ ɯ t͡ɕʰ w a̠ n,0
+{kor}ㅆㅡㅂㅆㅡㄹㅎㅏㄷㅏ,s͈ ɯ p s͈ ɯ ɾ ɦ a̠ d a̠,0
+{kor}ㅇㅏㄲㅏ,a̠ k͈ a̠,0
+{kor}ㅇㅏㄲㅏㅂㄷㅏ,a̠ k͈ a̠ p̚ t͈ a̠,0
+{kor}ㅇㅏㄴㅣㅇㅛ,a̠ n i j o,0
+{kor}ㅇㅏㄴㅣㅎㅏㄷㅏ,a̠ n i ɦ a̠ d a̠,0
+{kor}ㅇㅏㄹㅡㅌㅔㅁㅣㅅㅡ,a̠ ɾ ɯ tʰ e̞ m i sʰ ɯ,0
+{kor}ㅇㅏㄹㅡㅎㅔㄴㅌㅣㄴㅏ,a̠ ɾ ɯ ɦ e̞ n tʰ i n a̠,0
+{kor}ㅇㅏㅁㅜㅌㅡㄴ,a̠ː m u tʰ ɯ n,0
+{kor}ㅇㅏㅂㅓㅈㅣ,a̠ b ʌ̹ d͡ʑ i,0
+{kor}ㅇㅏㅅㅏ,a̠ː sʰ a̠,0
+{kor}ㅇㅏㅆㅏ,a̠ s͈ a̠,0
+{kor}ㅇㅏㅇㅑㅌㅗㄹㄹㅏ,a̠ j a̠ tʰ o̞ ɭ ɭ a̠,0
+{kor}ㅇㅏㅈㅣ,a̠ d͡ʑ i,0
+{kor}ㅇㅏㅊㅓㅁㅎㅏㄷㅏ,a̠ t͡ɕʰ ʌ̹ m ɦ a̠ d a̠,0
+{kor}ㅇㅏㅌㅣㅅㅡㅌㅡ,a̠ tʰ i sʰ ɯ tʰ ɯ,0
+{kor}ㅇㅏㅎㅏ,a̠ ɦ a̠,0
+{kor}ㅇㅏㅎㅗㅂ,a̠ β o̞ p̚,0
+{kor}ㅇㅏㄴㄱㅜ,a̠ː n ɡ u,0
+{kor}ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ,a̠ n ɲ j ʌ̹ ŋ ɦ a̠ sʰ e̞ j o,0
+{kor}ㅇㅏㄴㄷㅡㄹㅔㅇㅣ,a̠ n d ɯ ɾ e̞ i,0
+{kor}ㅇㅏㄴㅅㅡㅂ,a̠ n sʰ ɯ p̚,0
+{kor}ㅇㅏㄴㅌㅔㄴㅏ,a̠ n tʰ e̞ n a̠,0
+{kor}ㅇㅏㄶㄷㅏ,a̠ n tʰ a̠,0
+{kor}ㅇㅏㄹㅂㅏ,a̠ ɭ b a̠,0
+{kor}ㅇㅏㄹㅂㅏㅂ,a̠ ɭ b a̠ p̚,0
+{kor}ㅇㅏㄹㅂㅜㅁㅣㄴ,a̠ ɭ b u m i n,0
+{kor}ㅇㅏㄹㅇㅏㄷㅡㄷㄷㅏ,a̠ ɾ a̠ d ɯ t̚ t͈ a̠,0
+{kor}ㅇㅏㄹㅇㅡㅁㅇㅏㄹㅇㅡㅁ,a̠ ɾ ɯ m a̠ ɾ ɯ m,0
+{kor}ㅇㅏㄹㅍㅏㅂㅔㅅ,a̠ ɭ pʰ a̠ b e̞ t̚,0
+{kor}ㅇㅏㅁㄱㅣ,a̠ː m ɡ i,0
+{kor}ㅇㅏㅁㅅㅗ,a̠ m sʰ o̞,0
+{kor}ㅇㅏㅂㄹㅗㄱㄱㅏㅇ,a̠ m n o̞ k̚ k͈ a̠ ŋ,0
+{kor}ㅇㅐㅂㅓㄹㄹㅔ,ɛː b ʌ̹ ɭ ɭ e̞,0
+{kor}ㅇㅑㄱㅜ,j a̠ː ɡ u,0
+{kor}ㅇㅑㄱㅡㅁㅇㅑㄱㅡㅁ,j a̠ ɡ ɯ m j a̠ ɡ ɯ m,0
+{kor}ㅇㅑㅁㅏㄴㅇㅣㄴ,j a̠ː m a̠ n i n,0
+{kor}ㅇㅑㅅㅣㅁ,j a̠ː ɕʰ i m,0
+{kor}ㅇㅑㅈㅏ,j a̠ː d͡ʑ a̠,0
+{kor}ㅇㅑㄱㄹㅣㅎㅏㄱ,j a̠ ŋ n i ɦ a̠ k̚,0
+{kor}ㅇㅑㄱㅁㅜㄹ,j a̠ ŋ m u ɭ,0
+{kor}ㅇㅑㄱㅎㅗㄴㅈㅏ,j a̠ kʰ o̞ ɲ d͡ʑ a̠,0
+{kor}ㅇㅑㄼㄷㅏ,j a̠ː ɭ t͈ a̠,0
+{kor}ㅇㅑㅇㄹㅗㅇㅝㄴ,j a̠ː ŋ n o̞ w ʌ̹ n,0
+{kor}ㅇㅑㅇㅅㅓㄹㅠ,j a̠ː ŋ sʰ ʌ̹ ɾ j u,0
+{kor}ㅇㅑㅇㅅㅓㅇ,j a̠ ŋ sʰ ʌ̹ ŋ,0
+{kor}ㅇㅓㄷㅜㅁ,ʌ̹ d u m,0
+{kor}ㅇㅓㄹㅏ,ʌ̹ ɾ a̠,0
+{kor}ㅇㅓㄹㅕㅂㅅㅏㄹㅣ,ʌ̹ ɾ j ʌ̹ p s͈ a̠ ɾ i,0
+{kor}ㅇㅓㅉㅣ,ʌ̹ t͡ɕ͈ i,0
+{kor}ㅇㅓㅎㅟ,ɘː ɦ ɥ i,0
+{kor}ㅇㅓㄹㄹㅜㄱ,ʌ̹ ɭ ɭ u k̚,0
+{kor}ㅇㅓㄹㅁㅏ,ʌ̹ ɭ m a̠,0
+{kor}ㅇㅓㅂㅈㅣㄴ,ʌ̹ p̚ t͡ɕ͈ i n,0
+{kor}ㅇㅓㅂㅊㅔ,ʌ̹ p̚ t͡ɕʰ e̞,0
+{kor}ㅇㅓㅄㄷㅏ,ɘː p̚ t͈ a̠,0
+{kor}ㅇㅓㅇㄷㅓㅇㅇㅣ,ɘː ŋ d ʌ̹ ŋ i,0
+{kor}ㅇㅔㅁㅣ,e̞ m i,0
+{kor}ㅇㅔㅅㅓ,e̞ sʰ ʌ̹,0
+{kor}ㅇㅔㄹㅇㅔㅇㅣ,e̞ ɾ e̞ i,0
+{kor}ㅇㅕㄷㅏㄴ,j ɘː d a̠ n,0
+{kor}ㅇㅕㅅㅓㅇㅎㅕㅁㅇㅗ,j ʌ̹ sʰ ʌ̹ ŋ ʝ j ʌ̹ m o̞,0
+{kor}ㅇㅕㅇㅑ,j ɘː j a̠,0
+{kor}ㅇㅕㅇㅠ,j ʌ̹ j u,0
+{kor}ㅇㅕㅈㅓㄴㅎㅣ,j ʌ̹ d͡ʑ ʌ̹ n ʝ i,0
+{kor}ㅇㅕㄱㅅㅏㅈㅓㄱ,j ʌ̹ k s͈ a̠ d͡ʑ ʌ̹ k̚,0
+{kor}ㅇㅕㄱㅎㅏㄹ,j ʌ̹ kʰ a̠ ɭ,0
+{kor}ㅇㅕㄴㄱㅜㅇㅝㄴ,j ɘː n ɡ u w ʌ̹ n,0
+{kor}ㅇㅕㄴㄱㅜㅎㅏㄷㅏ,j ɘː n ɡ u ɦ a̠ d a̠,0
+{kor}ㅇㅕㄴㄹㅏㄱ,j ʌ̹ ɭ ɭ a̠ k̚,0
+{kor}ㅇㅕㄴㅂㅕㄴ,j ʌ̹ n b j ʌ̹ n,0
+{kor}ㅇㅕㄴㅅㅏㅇ,j ʌ̹ n sʰ a̠ ŋ,0
+{kor}ㅇㅕㄴㅌㅏㄱ,j ʌ̹ n tʰ a̠ k̚,0
+{kor}ㅇㅕㄴㅎㅚ,j ɘː n β w e̞,0
+{kor}ㅇㅕㄹㄹㅏㅁㅅㅣㄹ,j ʌ̹ ɭ ɭ a̠ m ɕʰ i ɭ,0
+{kor}ㅇㅕㄼㄷㅏ,j ɘː ɭ t͈ a̠,0
+{kor}ㅇㅕㅁㅂㅕㅇ,j ɘː m b j ʌ̹ ŋ,0
+{kor}ㅇㅕㅂㄹㅗㄱㅅㅗ,j ʌ̹ m n o̞ k s͈ o̞,0
+{kor}ㅇㅕㅂㅅㅓ,j ʌ̹ p s͈ ʌ̹,0
+{kor}ㅇㅖㄱㅡㅁ,j e̞ː ɡ ɯ m,0
+{kor}ㅇㅖㄹㅜㅅㅏㄹㄹㅔㅁ,j e̞ ɾ u sʰ a̠ ɭ ɭ e̞ m,0
+{kor}ㅇㅖㅂㅣ,j e̞ b i,0
+{kor}ㅇㅖㅃㅡㄷㅏ,j e̞ː p͈ ɯ d a̠,0
+{kor}ㅇㅖㅅㅏㅇㅎㅏㄷㅏ,j e̞ː sʰ a̠ ŋ ɦ a̠ d a̠,0
+{kor}ㅇㅖㅅㅜㄹ,j e̞ː sʰ u ɭ,0
+{kor}ㅇㅖㅅㅣ,j e̞ː ɕʰ i,0
+{kor}ㅇㅖㅇㅑㄱ,j e̞ː j a̠ k̚,0
+{kor}ㅇㅗㄱㅏㄴㅔㅅㅗㄴ,o̞ ɡ a̠ n e̞ sʰ o̞ n,0
+{kor}ㅇㅗㄱㅡㄹㅡㄹㅡ,o̞ ɡ ɯ ɾ ɯ ɾ ɯ,0
+{kor}ㅇㅗㄷㅗㅋㅏㄴㅣ,o̞ d o̞ kʰ a̠ n i,0
+{kor}ㅇㅗㄷㅣㄴ,o̞ d i n,0
+{kor}ㅇㅗㅅㅔㅇㅏㄴㅣㅇㅏ,o̞ sʰ e̞ a̠ n i a̠,0
+{kor}ㅇㅗㅅㅡㄹㄹㅗ,o̞ sʰ ɯ ɭ ɭ o̞,0
+{kor}ㅇㅗㅍㅣㅅㅡㅌㅔㄹ,o̞ pʰ i sʰ ɯ tʰ e̞ ɭ,0
+{kor}ㅇㅗㄴㄷㅗ,o̞ n d o̞,0
+{kor}ㅇㅗㄹㄹㅏㅇㅗㄷㅏ,o̞ ɭ ɭ a̠ o̞ d a̠,0
+{kor}ㅇㅘㄴㄱㅗㄱㅇㅓㅂㅓㅂ,w a̠ː n ɡ o̞ ɡ ʌ̹ p͈ ʌ̹ p̚,0
+{kor}ㅇㅘㅇㅂㅣ,w a̠ ŋ b i,0
+{kor}ㅇㅘㅇㅈㅘ,w a̠ ŋ d͡ʑ w a̠,0
+{kor}ㅇㅚㄷㅗㅇㄸㅏㄹ,w e̞ d o̞ ŋ t͈ a̠ ɭ,0
+{kor}ㅇㅛㄹㅣㅅㅏ,j o ɾ i sʰ a̠,0
+{kor}ㅇㅛㄱㅁㅏㅇ,j o ŋ m a̠ ŋ,0
+{kor}ㅇㅛㄱㅅㅣㅁ,j o k ɕ͈ i m,0
+{kor}ㅇㅛㄱㅎㅏㄷㅏ,j o kʰ a̠ d a̠,0
+{kor}ㅇㅛㅇㅇㅓ,j oː ŋ ʌ̹,0
+{kor}ㅇㅜㄱㅣㄷㅏ,u ɡ i d a̠,0
+{kor}ㅇㅜㄴㅜㄴㅎㅔㄱㅅㅠㅁ,u n u n ɦ e̞ k ɕ͈ u m,0
+{kor}ㅇㅜㅅㅏ,u sʰ a̠,0
+{kor}ㅇㅜㅈㅜ,uː d͡ʑ u,0
+{kor}ㅇㅜㅊㅔㅌㅗㅇ,u t͡ɕʰ e̞ tʰ o̞ ŋ,0
+{kor}ㅇㅜㄴㄷㅗㅇㅅㅓㄴㅅㅜ,u n d o̞ ŋ sʰ ʌ̹ n sʰ u,0
+{kor}ㅇㅜㄴㅅㅓㄱ,uː n sʰ ʌ̹ k̚,0
+{kor}ㅇㅜㄴㅅㅗㅇ,u n sʰ o̞ ŋ,0
+{kor}ㅇㅜㄹㅌㅜㅇㅂㅜㄹㅌㅜㅇ,u ɭ tʰ u ŋ b u ɭ tʰ u ŋ,0
+{kor}ㅇㅝㅅㅓㄱ,w ʌ̹ sʰ ʌ̹ k̚,0
+{kor}ㅇㅝㄴㅁㅜㄴ,w ʌ̹ n m u n,0
+{kor}ㅇㅝㄴㅅㅜ,w ʌ̹ n sʰ u,0
+{kor}ㅇㅝㄴㅅㅜㅇㅇㅣ,w ɘː n sʰ u ŋ i,0
+{kor}ㅇㅝㄴㅈㅏㄹㅕㄱ,w ʌ̹ ɲ d͡ʑ a̠ ɾ j ʌ̹ k̚,0
+{kor}ㅇㅝㄴㅈㅏㄱ,w ʌ̹ ɲ d͡ʑ a̠ k̚,0
+{kor}ㅇㅝㄴㅎㅏㄷㅏ,w ɘː n ɦ a̠ d a̠,0
+{kor}ㅇㅞㄹㄹㅣㅇㅌㅓㄴ,w e̞ ʎ ʎ i ŋ tʰ ʌ̹ n,0
+{kor}ㅇㅟㅅㅓㅇ,ɥ i sʰ ʌ̹ ŋ,0
+{kor}ㅇㅟㅇㅝㄴ,ɥ i w ʌ̹ n,0
+{kor}ㅇㅠㄹㅗ,j u ɾ o̞,0
+{kor}ㅇㅠㄹㅣㅈㅏㄴ,j u ɾ i d͡ʑ a̠ n,0
+{kor}ㅇㅠㅇㅛㅇ,j uː j o ŋ,0
+{kor}ㅇㅠㅈㅓㄱㅈㅣ,j u d͡ʑ ʌ̹ k̚ t͡ɕ͈ i,0
+{kor}ㅇㅠㅈㅓㄴㅎㅏㄱ,j u d͡ʑ ʌ̹ n ɦ a̠ k̚,0
+{kor}ㅇㅠㅊㅓㅇ,j u t͡ɕʰ ʌ̹ ŋ,0
+{kor}ㅇㅠㄴㅎㅚ,j u n β w e̞,0
+{kor}ㅇㅡㄴㅈㅏ,ɯ ɲ d͡ʑ a̠,0
+{kor}ㅇㅡㄴㅎㅏ,ɯ n ɦ a̠,0
+{kor}ㅇㅡㅁㄹㅛㅅㅜ,ɯː m ɲ j o sʰ u,0
+{kor}ㅇㅡㅁㅇㅏㄱㅎㅚ,ɯ m a̠ kʰ w e̞,0
+{kor}ㅇㅡㅁㅇㅕㄱ,ɯ m j ʌ̹ k̚,0
+{kor}ㅇㅢㄹㅖ,ɰ i ɾ j e̞,0
+{kor}ㅇㅢㅁㅜ,ɰ iː m u,0
+{kor}ㅇㅢㅁㅣㄹㅗㄴ,ɰ iː m i ɾ o̞ n,0
+{kor}ㅇㅢㅇㅝㄴ,ɰ i w ʌ̹ n,0
+{kor}ㅇㅢㅎㅏㄱ,ɰ i ɦ a̠ k̚,0
+{kor}ㅇㅣㄷㅏㄴ,iː d a̠ n,0
+{kor}ㅇㅣㄷㅏㄹ,i d a̠ ɭ,0
+{kor}ㅇㅣㄷㅡㄱ,iː d ɯ k̚,0
+{kor}ㅇㅣㄹㅏㅅㅓ,i ɾ a̠ sʰ ʌ̹,0
+{kor}ㅇㅣㄹㅓㅋㅜㅇㅈㅓㄹㅓㅋㅜㅇ,i ɾ ʌ̹ kʰ u ŋ d͡ʑ ʌ̹ ɾ ʌ̹ kʰ u ŋ,0
+{kor}ㅇㅣㄹㅓㅎㅏㄷㅏ,i ɾ ʌ̹ ɦ a̠ d a̠,0
+{kor}ㅇㅣㄹㅓㅎㄱㅔ,i ɾ ʌ̹ kʰ e̞,0
+{kor}ㅇㅣㄹㅔ,i ɾ e̞,0
+{kor}ㅇㅣㄹㅝㅈㅣㄷㅏ,i ɾ w ʌ̹ d͡ʑ i d a̠,0
+{kor}ㅇㅣㅂㅜㅈㅏㄹㅣ,i b u d͡ʑ a̠ ɾ i,0
+{kor}ㅇㅣㅃㅡㄷㅏ,i p͈ ɯ d a̠,0
+{kor}ㅇㅣㅅㅏㅇㅏㄱ,i sʰ a̠ a̠ k̚,0
+{kor}ㅇㅣㅇㅑㄱㅣㅅㄱㅓㄹㅣ,i j a̠ ɡ i t̚ k͈ ʌ̹ ɾ i,0
+{kor}ㅇㅣㅇㅝㄴ,i w ʌ̹ n,0
+{kor}ㅇㅣㅇㅝㄹ,iː w ʌ̹ ɭ,0
+{kor}ㅇㅣㅈㅓㅇㅍㅛ,i d͡ʑ ʌ̹ ŋ pʰ j o,0
+{kor}ㅇㅣㄴㄱㅗㅇ,i n ɡ o̞ ŋ,0
+{kor}ㅇㅣㄴㄹㅠㅎㅏㄱ,i ʎ ʎ j u ɦ a̠ k̚,0
+{kor}ㅇㅣㄴㅁㅜㄹ,i n m u ɭ,0
+{kor}ㅇㅣㄴㅁㅣㄴ,i n m i n,0
+{kor}ㅇㅣㄴㅇㅝㄴ,i n w ʌ̹ n,0
+{kor}ㅇㅣㄴㅊㅘㄴ,i ɲ t͡ɕʰ w a̠ n,0
+{kor}ㅇㅣㄴㅌㅓㄴㅔㅅ,i n tʰ ʌ̹ n e̞ t̚,0
+{kor}ㅇㅣㄴㅎㅕㅇㄱㅡㄱ,i n ʝ j ʌ̹ ŋ ɡ ɯ k̚,0
+{kor}ㅇㅣㄹㄱㅣㅈㅏㅇ,i ɭ ɡ i t͡ɕ͈ a̠ ŋ,0
+{kor}ㅇㅣㄹㄷㅡㅇ,i ɭ t͈ ɯ ŋ,0
+{kor}ㅇㅣㄹㄹㅣ,i ʎ ʎ i,0
+{kor}ㅇㅣㄹㅂㅗㄴ,i ɭ b o̞ n,0
+{kor}ㅇㅣㄹㅅㅏㅇ,i ɭ sʰ a̠ ŋ,0
+{kor}ㅇㅣㄹㅇㅓ,i ɾ ʌ̹,0
+{kor}ㅇㅣㄹㅈㅏㄹㅣ,iː ʎ t͡ɕ͈ a̠ ɾ i,0
+{kor}ㅇㅣㄹㅉㅣㄱ,i ʎ t͡ɕ͈ i k̚,0
+{kor}ㅇㅣㄹㅍㅜㅁ,i ɭ pʰ u m,0
+{kor}ㅇㅣㄹㅎㅘ,i ɾ β w a̠,0
+{kor}ㅇㅣㅁㅅㅏㄴㅂㅜ,iː m sʰ a̠ n b u,0
+{kor}ㅇㅣㅂㄹㅕㄱㄱㅣ,i m ɲ j ʌ̹ k̚ k͈ i,0
+{kor}ㅇㅣㅂㅎㅏㄱ,i pʰ a̠ k̚,0
+{kor}ㅇㅣㅅㄸㅏㄹㅡㄷㅏ,iː t̚ t͈ a̠ ɾ ɯ d a̠,0
+{kor}ㅈㅏㄱㅏㅇㅛㅇ,t͡ɕ a̠ ɡ a̠ j o ŋ,0
+{kor}ㅈㅏㄱㅕㄱㅈㅣㅅㅣㅁ,t͡ɕ a̠ ɡ j ʌ̹ k̚ t͡ɕ͈ i ɕʰ i m,0
+{kor}ㅈㅏㄱㅕㄹ,t͡ɕ a̠ ɡ j ʌ̹ ɭ,0
+{kor}ㅈㅏㅅㅓㄴ,t͡ɕ a̠ sʰ ʌ̹ n,0
+{kor}ㅈㅏㅇㅠㄹㅗㅂㄷㅏ,t͡ɕ a̠ j u ɾ o̞ p̚ t͈ a̠,0
+{kor}ㅈㅏㅇㅢ,t͡ɕ a̠ ɰ i,0
+{kor}ㅈㅏㅊㅣ,t͡ɕ a̠ t͡ɕʰ i,0
+{kor}ㅈㅏㅋㅏㄹㅡㅌㅏ,t͡ɕ a̠ kʰ a̠ ɾ ɯ tʰ a̠,0
+{kor}ㅈㅏㄱㅇㅓㅂㅈㅏㅇ,t͡ɕ a̠ ɡ ʌ̹ p̚ t͡ɕ͈ a̠ ŋ,0
+{kor}ㅈㅏㄱㅍㅜㅁㅈㅣㅂ,t͡ɕ a̠ k̚ pʰ u m d͡ʑ i p̚,0
+{kor}ㅈㅏㄹㅎㅏㄷㅏ,t͡ɕ a̠ ɾ ɦ a̠ d a̠,0
+{kor}ㅈㅏㅇㄱㅏ,t͡ɕ a̠ː ŋ ɡ a̠,0
+{kor}ㅈㅏㅇㄱㅏㅂ,t͡ɕ a̠ː ŋ ɡ a̠ p̚,0
+{kor}ㅈㅏㅇㄱㅘ,t͡ɕ a̠ ŋ ɡ w a̠,0
+{kor}ㅈㅏㅇㄹㅡ,t͡ɕ a̠ ŋ n ɯ,0
+{kor}ㅈㅏㅇㅁㅏ,t͡ɕ a̠ ŋ m a̠,0
+{kor}ㅈㅏㅇㅅㅣㄱ,t͡ɕ a̠ ŋ ɕʰ i k̚,0
+{kor}ㅈㅏㅇㅇㅣㄴㅇㅓㄹㅡㄴ,t͡ɕ a̠ː ŋ i n ʌ̹ ɾ ɯ n,0
+{kor}ㅈㅓㄱㅏㄹㅏㄱ,t͡ɕ ʌ̹ ɡ a̠ ɾ a̠ k̚,0
+{kor}ㅈㅓㄹㅓㄴ,t͡ɕ ʌ̹ ɾ ʌ̹ n,0
+{kor}ㅈㅓㄹㅓㅎㄷㅏ,t͡ɕ ʌ̹ ɾ ʌ̹ tʰ a̠,0
+{kor}ㅈㅓㅈㅏ,t͡ɕ ʌ̹ d͡ʑ a̠,0
+{kor}ㅈㅓㄱㅁㅏㄱ,t͡ɕ ʌ̹ ŋ m a̠ k̚,0
+{kor}ㅈㅓㄴㄷㅗ,t͡ɕ ʌ̹ n d o̞,0
+{kor}ㅈㅓㄴㄹㅏㅂㅜㄱㄷㅗ,t͡ɕ ʌ̹ ɭ ɭ a̠ b u k̚ t͈ o̞,0
+{kor}ㅈㅓㄴㅁㅏㅇ,t͡ɕ ɘː n m a̠ ŋ,0
+{kor}ㅈㅓㄴㅁㅗ,t͡ɕ ʌ̹ n m o̞,0
+{kor}ㅈㅓㄴㅅㅣ,t͡ɕ ɘː n ɕʰ i,0
+{kor}ㅈㅓㄴㅅㅣㅎㅚ,t͡ɕ ɘː n ɕʰ i β w e̞,0
+{kor}ㅈㅓㄴㅇㅏㅂ,t͡ɕ ɘː n a̠ p̚,0
+{kor}ㅈㅓㄴㅇㅛㅇ,t͡ɕ ʌ̹ ɲ j o ŋ,0
+{kor}ㅈㅓㄴㅇㅟ,t͡ɕ ʌ̹ n ɥ i,0
+{kor}ㅈㅓㄴㅌㅗㅇㅈㅓㄱ,t͡ɕ ʌ̹ n tʰ o̞ ŋ d͡ʑ ʌ̹ k̚,0
+{kor}ㅈㅓㄴㅎㅘ,t͡ɕ ɘː n β w a̠,0
+{kor}ㅈㅓㅁㄹㅕㅇ,t͡ɕ ʌ̹ m ɲ j ʌ̹ ŋ,0
+{kor}ㅈㅓㅁㅈㅏㄶㄷㅏ,t͡ɕ ɘː m d͡ʑ a̠ n tʰ a̠,0
+{kor}ㅈㅓㅁㅍㅗ,t͡ɕ ɘː m pʰ o̞,0
+{kor}ㅈㅓㅁㅍㅡ,t͡ɕ ʌ̹ m pʰ ɯ,0
+{kor}ㅈㅓㅂㅎㅏㄷㅏ,t͡ɕ ʌ̹ pʰ a̠ d a̠,0
+{kor}ㅈㅓㅇㄱㅏㅇㅇㅣ,t͡ɕ ʌ̹ ŋ ɡ a̠ ŋ i,0
+{kor}ㅈㅓㅇㄴㅕㅁ,t͡ɕ ʌ̹ ŋ ɲ j ʌ̹ m,0
+{kor}ㅈㅓㅇㄷㅗ,t͡ɕ ʌ̹ ŋ d o̞,0
+{kor}ㅈㅓㅇㅇㅣㄹㅂㅗㅇ,t͡ɕ ʌ̹ ŋ i ɭ b o̞ ŋ,0
+{kor}ㅈㅓㅇㅌㅗㅇ,t͡ɕ ɘː ŋ tʰ o̞ ŋ,0
+{kor}ㅈㅔㅁㅗㄱ,t͡ɕ e̞ m o̞ k̚,0
+{kor}ㅈㅔㅂㅗ,t͡ɕ e̞ b o̞,0
+{kor}ㅈㅔㅈㅏ,t͡ɕ e̞ː d͡ʑ a̠,0
+{kor}ㅈㅔㅈㅜㄸㅏㅅㅈㅟ,t͡ɕ e̞ d͡ʑ u t͈ a̠ t̚ t͡ɕ͈ ɥ i,0
+{kor}ㅈㅔㅈㅜㅇㅓ,t͡ɕ e̞ː d͡ʑ u ʌ̹,0
+{kor}ㅈㅔㅎㅏㄴㅎㅏㄷㅏ,t͡ɕ e̞ː ɦ a̠ n ɦ a̠ d a̠,0
+{kor}ㅈㅗㄹㅖ,t͡ɕ o̞ ɾ j e̞,0
+{kor}ㅈㅗㄹㅠㅎㅏㄱ,t͡ɕ o̞ ɾ j u ɦ a̠ k̚,0
+{kor}ㅈㅗㅁㅏㄴㄱㅏㄴ,t͡ɕ o̞ː m a̠ n ɡ a̠ n,0
+{kor}ㅈㅗㅅㅏㄴㅅㅏ,t͡ɕ o̞ː sʰ a̠ n sʰ a̠,0
+{kor}ㅈㅗㅇㅓㄴ,t͡ɕ o̞ː ʌ̹ n,0
+{kor}ㅈㅗㅈㅏㄱㅊㅔㄱㅖ,t͡ɕ o̞ d͡ʑ a̠ k̚ t͡ɕʰ e̞ ɡ j e̞,0
+{kor}ㅈㅗㅋㅏㄸㅏㄹ,t͡ɕ o̞ kʰ a̠ t͈ a̠ ɭ,0
+{kor}ㅈㅗㅍㅗㄱ,t͡ɕ o̞ pʰ o̞ k̚,0
+{kor}ㅈㅗㄱㅂㅏㄹ,t͡ɕ o̞ k̚ p͈ a̠ ɭ,0
+{kor}ㅈㅗㄴㅇㅓㅁ,t͡ɕ o̞ n ʌ̹ m,0
+{kor}ㅈㅗㄹㅇㅓㅂㅎㅏㄷㅏ,t͡ɕ o̞ ɾ ʌ̹ pʰ a̠ d a̠,0
+{kor}ㅈㅗㅇㅇㅏㄹㅣ,t͡ɕ o̞ː ŋ a̠ ɾ i,0
+{kor}ㅈㅗㅇㅇㅣㅈㅓㅂㄱㅣ,t͡ɕ o̞ ŋ i d͡ʑ ʌ̹ p̚ k͈ i,0
+{kor}ㅈㅘㅈㅓㄹ,t͡ɕ w a̠ː d͡ʑ ʌ̹ ɭ,0
+{kor}ㅈㅚㅇㅢㅅㅣㄱ,t͡ɕ w e̞ ɰ i ɕʰ i k̚,0
+{kor}ㅈㅜㅁㅓㄴㅣㅋㅏㄹ,t͡ɕ u m ʌ̹ n i kʰ a̠ ɭ,0
+{kor}ㅈㅜㅂㅕㄴ,t͡ɕ u b j ʌ̹ n,0
+{kor}ㅈㅜㅅㅏㅇㅟ,t͡ɕ u sʰ a̠ ɥ i,0
+{kor}ㅈㅜㅅㅣㅎㅏㄷㅏ,t͡ɕ uː ɕʰ i ɦ a̠ d a̠,0
+{kor}ㅈㅜㅇㅛ,t͡ɕ u j o,0
+{kor}ㅈㅜㄱㄷㅏ,t͡ɕ u k̚ t͈ a̠,0
+{kor}ㅈㅜㄴㄱㅗㅇ,t͡ɕ uː n ɡ o̞ ŋ,0
+{kor}ㅈㅜㅇㄱㅜㄱㅈㅣㅂ,t͡ɕ u ŋ ɡ u k̚ t͡ɕ͈ i p̚,0
+{kor}ㅈㅜㅇㄷㅗㅇ,t͡ɕ u ŋ d o̞ ŋ,0
+{kor}ㅈㅜㅇㄹㅕㄱ,t͡ɕ u ŋ ɲ j ʌ̹ k̚,0
+{kor}ㅈㅜㅇㄹㅕㄱㅈㅏ,t͡ɕ uː ŋ ɲ j ʌ̹ k̚ t͡ɕ͈ a̠,0
+{kor}ㅈㅜㅇㅂㅏㄴ,t͡ɕ u ŋ b a̠ n,0
+{kor}ㅈㅜㅇㅇㅛㅅㅣㅎㅏㄷㅏ,t͡ɕ u ŋ j o ɕʰ i ɦ a̠ d a̠,0
+{kor}ㅈㅜㅇㅈㅓㄱㅂㅜㄴ,t͡ɕ u ŋ d͡ʑ ʌ̹ k̚ p͈ u n,0
+{kor}ㅈㅜㅇㅎㅘㅇㅣㄴㅁㅣㄴㄱㅗㅇㅎㅘㄱㅜㄱ,t͡ɕ u ŋ β w a̠ i n m i n ɡ o̞ ŋ β w a̠ ɡ u k̚,0
+{kor}ㅈㅡㅇㅈㅓㅇ,t͡ɕ ɯ ŋ d͡ʑ ʌ̹ ŋ,0
+{kor}ㅈㅣㄴㅏㄴㄷㅏㄹ,t͡ɕ i n a̠ n d a̠ ɭ,0
+{kor}ㅈㅣㄴㅡㅇ,t͡ɕ i n ɯ ŋ,0
+{kor}ㅈㅣㄷㅗ,t͡ɕ i d o̞,0
+{kor}ㅈㅣㄹㅏ,t͡ɕ i ɾ a̠,0
+{kor}ㅈㅣㅁㅕㅇ,t͡ɕ i m j ʌ̹ ŋ,0
+{kor}ㅈㅣㅅㅏ,t͡ɕ i sʰ a̠,0
+{kor}ㅈㅣㅅㅣ,t͡ɕ i ɕʰ i,0
+{kor}ㅈㅣㅅㅣㅂㅗㅇ,t͡ɕ i ɕʰ i b o̞ ŋ,0
+{kor}ㅈㅣㅈㅣㄹㅎㅏㄱ,t͡ɕ i d͡ʑ i ɾ ɦ a̠ k̚,0
+{kor}ㅈㅣㅍㅓ,t͡ɕ i pʰ ʌ̹,0
+{kor}ㅈㅣㄱㅇㅓㅂ,t͡ɕ i ɡ ʌ̹ p̚,0
+{kor}ㅈㅣㄱㅈㅏㅇ,t͡ɕ i k̚ t͡ɕ͈ a̠ ŋ,0
+{kor}ㅈㅣㄱㅎㅏㄹㅅㅣ,t͡ɕ i kʰ a̠ ɭ ɕʰ i,0
+{kor}ㅈㅣㄴㅅㅣㅁ,t͡ɕ i n ɕʰ i m,0
+{kor}ㅈㅣㄴㅎㅏㄷㅏ,t͡ɕ i n ɦ a̠ d a̠,0
+{kor}ㅈㅣㅂㄷㅡㄹㅇㅣ,t͡ɕ i p̚ t͈ ɯ ɾ i,0
+{kor}ㅈㅣㅂㅈㅜㅇㅎㅏㄷㅏ,t͡ɕ i p̚ t͡ɕ͈ u ŋ ɦ a̠ d a̠,0
+{kor}ㅉㅜㅃㅕㅅㅉㅜㅃㅕㅅ,t͡ɕ͈ u p͈ j ʌ̹ t̚ t͡ɕ͈ u p͈ j ʌ̹ t̚,0
+{kor}ㅉㅣㄱㄷㅏ,t͡ɕ͈ i k̚ t͈ a̠,0
+{kor}ㅊㅏㄷㅏ,t͡ɕʰ a̠ d a̠,0
+{kor}ㅊㅏㄱㅊㅟ,t͡ɕʰ a̠ k̚ t͡ɕʰ ɥ i,0
+{kor}ㅊㅏㅁㄱㅏ,t͡ɕʰ a̠ m ɡ a̠,0
+{kor}ㅊㅏㅁㄱㅗㅅㅓ,t͡ɕʰ a̠ m ɡ o̞ sʰ ʌ̹,0
+{kor}ㅊㅏㅇㄱㅗ,t͡ɕʰ a̠ ŋ ɡ o̞,0
+{kor}ㅊㅓㅁㅏ,t͡ɕʰ ʌ̹ m a̠,0
+{kor}ㅊㅓㄴㅁㅜㄴㅎㅏㄱ,t͡ɕʰ ʌ̹ n m u n ɦ a̠ k̚,0
+{kor}ㅊㅓㄴㅅㅏㄴㄱㅏㅂ,t͡ɕʰ ɘː n sʰ a̠ n ɡ a̠ p̚,0
+{kor}ㅊㅓㄹㅁㅜㄹㅈㅓㅁ,t͡ɕʰ ʌ̹ ɭ m u ʎ d͡ʑ ʌ̹ m,0
+{kor}ㅊㅓㅁㄱㅏ,t͡ɕʰ ʌ̹ m ɡ a̠,0
+{kor}ㅊㅓㅁㄱㅏㅁㅜㄹ,t͡ɕʰ ʌ̹ m ɡ a̠ m u ɭ,0
+{kor}ㅊㅓㅁㅂㅜ,t͡ɕʰ ʌ̹ m b u,0
+{kor}ㅊㅓㅇㅅㅓㄹㅁㅗ,t͡ɕʰ ʌ̹ ŋ sʰ ʌ̹ ɭ m o̞,0
+{kor}ㅊㅓㅇㅅㅗㄱㅣ,t͡ɕʰ ʌ̹ ŋ sʰ o̞ ɡ i,0
+{kor}ㅊㅔㄱㅖ,t͡ɕʰ e̞ ɡ j e̞,0
+{kor}ㅊㅔㅇㅗㄴ,t͡ɕʰ e̞ o̞ n,0
+{kor}ㅊㅔㅈㅗ,t͡ɕʰ e̞ d͡ʑ o̞,0
+{kor}ㅊㅔㅎㅕㅇ,t͡ɕʰ e̞ ʝ j ʌ̹ ŋ,0
+{kor}ㅊㅕㄷㅏㅂㅗㄷㅏ,t͡ɕʰ ɘː d a̠ b o̞ d a̠,0
+{kor}ㅊㅗㄹㅗㄱ,t͡ɕʰ o̞ ɾ o̞ k̚,0
+{kor}ㅊㅗㄹㅗㅇㅊㅗㄹㅗㅇ,t͡ɕʰ o̞ ɾ o̞ ŋ t͡ɕʰ o̞ ɾ o̞ ŋ,0
+{kor}ㅊㅗㅂㅗㅈㅏ,t͡ɕʰ o̞ b o̞ d͡ʑ a̠,0
+{kor}ㅊㅗㅅㅣㄴㅅㅓㅇ,t͡ɕʰ o̞ː ɕʰ i n sʰ ʌ̹ ŋ,0
+{kor}ㅊㅗㄴㅅㅡㄹㅓㅂㄷㅏ,t͡ɕʰ o̞ː n sʰ ɯ ɾ ʌ̹ p̚ t͈ a̠,0
+{kor}ㅊㅗㅅㅂㅜㄹ,t͡ɕʰ o̞ t̚ p͈ u ɭ,0
+{kor}ㅊㅗㅇㄱㅏㄱㄱㅣㅁㅊㅣ,t͡ɕʰ o̞ ŋ ɡ a̠ k̚ k͈ i m t͡ɕʰ i,0
+{kor}ㅊㅗㅇㄹㅣ,t͡ɕʰ o̞ː ŋ n i,0
+{kor}ㅊㅗㅇㅇㅏㄹ,t͡ɕʰ o̞ ŋ a̠ ɭ,0
+{kor}ㅊㅛㅋㅗㄹㄹㅔㅌㅡ,t͡ɕʰ o kʰ o̞ ɭ ɭ e̞ tʰ ɯ,0
+{kor}ㅊㅜㄱㅣㄱㅕㅇ,t͡ɕʰ u ɡ i ɡ j ʌ̹ ŋ,0
+{kor}ㅊㅜㄷㅗㄹ,t͡ɕʰ u d o̞ ɭ,0
+{kor}ㅊㅜㅊㅓㄴ,t͡ɕʰ u t͡ɕʰ ʌ̹ n,0
+{kor}ㅊㅜㄱㅂㅗㄱㅎㅏㄷㅏ,t͡ɕʰ u k̚ p͈ o̞ kʰ a̠ d a̠,0
+{kor}ㅊㅜㄹㅈㅏㅇ,t͡ɕʰ u ʎ t͡ɕ͈ a̠ ŋ,0
+{kor}ㅊㅜㄹㅊㅓ,t͡ɕʰ u ʎ t͡ɕʰ ʌ̹,0
+{kor}ㅊㅜㅇㅊㅓㅇㄴㅏㅁㄷㅗ,t͡ɕʰ u ŋ t͡ɕʰ ʌ̹ ŋ n a̠ m d o̞,0
+{kor}ㅊㅞㅈㅏㅇㅇㅏㅁ,t͡ɕʰ w e̞ː d͡ʑ a̠ ŋ a̠ m,0
+{kor}ㅊㅟㅇㅑㄱ,t͡ɕʰ ɥ iː j a̠ k̚,0
+{kor}ㅊㅟㅇㅑㄱㅅㅓㅇ,t͡ɕʰ ɥ iː j a̠ k s͈ ʌ̹ ŋ,0
+{kor}ㅊㅣㄴㅈㅓㄹㅎㅏㄷㅏ,t͡ɕʰ i ɲ d͡ʑ ʌ̹ ɾ ɦ a̠ d a̠,0
+{kor}ㅊㅣㄴㅈㅓㅇ,t͡ɕʰ i ɲ d͡ʑ ʌ̹ ŋ,0
+{kor}ㅊㅣㄹㅅㅣㅂ,t͡ɕʰ i ɭ ɕ͈ i p̚,0
+{kor}ㅋㅏㄹㄹㅓㅁ,kʰ a̠ ɭ ɭ ʌ̹ m,0
+{kor}ㅋㅗㅅㄱㅜㅁㅓㅇ,kʰ o̞ t̚ k͈ u m ʌ̹ ŋ,0
+{kor}ㅋㅜㄴㅑㅇ,kʰ u ɲ j a̠ ŋ,0
+{kor}ㅋㅜㅇㅞㅇㅣㅌㅡ,kʰ u w e̞ i tʰ ɯ,0
+{kor}ㅋㅡㄹㅔㄷㅣㅌㅡ,k x ɯ ɾ e̞ d i tʰ ɯ,0
+{kor}ㅌㅏㄹㅏㄱ,tʰ a̠ː ɾ a̠ k̚,0
+{kor}ㅌㅏㅇㅣㅌㅡㄹㄱㅗㄱ,tʰ a̠ i tʰ ɯ ɭ ɡ o̞ k̚,0
+{kor}ㅌㅏㅇㅣㅂ,tʰ a̠ i p̚,0
+{kor}ㅌㅏㅈㅣㅋㅡㅇㅓ,tʰ a̠ d͡ʑ i k x ɯ ʌ̹,0
+{kor}ㅌㅏㅌㅏㄹㅡㅇㅓ,tʰ a̠ tʰ a̠ ɾ ɯ ʌ̹,0
+{kor}ㅌㅏㄴㄷㅗ,tʰ a̠ː n d o̞,0
+{kor}ㅌㅏㄴㅎㅘㄴ,tʰ a̠ː n β w a̠ n,0
+{kor}ㅌㅏㄹㅊㅜㄹ,tʰ a̠ ʎ t͡ɕʰ u ɭ,0
+{kor}ㅌㅏㅁㅈㅣ,tʰ a̠ m d͡ʑ i,0
+{kor}ㅌㅏㅂㅅㅡㅇ,tʰ a̠ p s͈ ɯ ŋ,0
+{kor}ㅌㅓㄷㅡㄱ,tʰ ɘː d ɯ k̚,0
+{kor}ㅌㅔㄹㅓㄹㅣㅈㅡㅁ,tʰ e̞ ɾ ʌ̹ ɾ i d͡ʑ ɯ m,0
+{kor}ㅌㅔㅁㅏ,tʰ e̞ m a̠,0
+{kor}ㅌㅔㅁㅍㅗ,tʰ e̞ m pʰ o̞,0
+{kor}ㅌㅗㄹㅠㅁ,tʰ o̞ ɾ j u m,0
+{kor}ㅌㅗㄹㅡ,tʰ o̞ ɾ ɯ,0
+{kor}ㅌㅗㅁㅏㅅㅡ,tʰ o̞ m a̠ sʰ ɯ,0
+{kor}ㅌㅗㅇㄴㅏㅁㅜ,tʰ o̞ ŋ n a̠ m u,0
+{kor}ㅌㅗㅇㅅㅏㅇ,tʰ o̞ ŋ sʰ a̠ ŋ,0
+{kor}ㅌㅗㅇㅈㅣ,tʰ o̞ ŋ d͡ʑ i,0
+{kor}ㅌㅗㅇㅈㅣㅎㅏㄷㅏ,tʰ o̞ ŋ d͡ʑ i ɦ a̠ d a̠,0
+{kor}ㅌㅚㄱㅡㄴ,tʰ w e̞ː ɡ ɯ n,0
+{kor}ㅌㅜㅁㅕㅇ,tʰ u m j ʌ̹ ŋ,0
+{kor}ㅌㅜㅂㅏㄹㄹㅜ,tʰ u b a̠ ɭ ɭ u,0
+{kor}ㅌㅜㅅㅓ,tʰ u sʰ ʌ̹,0
+{kor}ㅌㅜㅇㅓ,tʰ u ʌ̹,0
+{kor}ㅌㅜㅈㅏ,tʰ u d͡ʑ a̠,0
+{kor}ㅌㅜㄴㄷㅡㄹㅏ,tʰ u n d ɯ ɾ a̠,0
+{kor}ㅌㅡㄹㅗㅇㅣㅋㅏ,tʰ ɯ ɾ o̞ i kʰ a̠,0
+{kor}ㅌㅡㄹㅣㄴㅣㄷㅏㄷㅡ,tʰ ɯ ɾ i n i d a̠ d ɯ,0
+{kor}ㅌㅡㄱㅂㅕㄹ,tʰ ɯ k̚ p͈ j ʌ̹ ɭ,0
+{kor}ㅌㅡㄱㅅㅜ,tʰ ɯ k s͈ u,0
+{kor}ㅍㅏㄹㅕㅁㅊㅣ,pʰ a̠ː ɾ j ʌ̹ m t͡ɕʰ i,0
+{kor}ㅍㅏㅁㅏ,pʰ a̠ m a̠,0
+{kor}ㅍㅏㅊㅜㅇㄹㅠ,pʰ a̠ t͡ɕʰ u ŋ ɲ j u,0
+{kor}ㅍㅏㄹㅅㅣㅂ,pʰ a̠ ɭ ɕ͈ i p̚,0
+{kor}ㅍㅏㅂㅅㅗㅇ,pʰ a̠ p s͈ o̞ ŋ,0
+{kor}ㅍㅏㅅㅌㅏㅇㅣ,pʰ a̠ t̚ tʰ a̠ i,0
+{kor}ㅍㅓㄹㅅㅓ,pʰ ʌ̹ ɭ sʰ ʌ̹,0
+{kor}ㅍㅔㄹㅜ,pʰ e̞ ɾ u,0
+{kor}ㅍㅕㄴㄹㅣ,pʰ j ʌ̹ ʎ ʎ i,0
+{kor}ㅍㅕㅇㄷㅡㅇ,pʰ j ʌ̹ ŋ d ɯ ŋ,0
+{kor}ㅍㅕㅇㅇㅏㄴㅂㅜㄱㄷㅗ,pʰ j ʌ̹ ŋ a̠ n b u k̚ t͈ o̞,0
+{kor}ㅍㅕㅇㅇㅝㄴ,pʰ j ʌ̹ ŋ w ʌ̹ n,0
+{kor}ㅍㅕㅇㅈㅣ,pʰ j ʌ̹ ŋ d͡ʑ i,0
+{kor}ㅍㅕㅇㅎㅘㄹㅗㅂㄷㅏ,pʰ j ʌ̹ ŋ β w a̠ ɾ o̞ p̚ t͈ a̠,0
+{kor}ㅍㅖㅎㅏ,pʰ j e̞ː ɦ a̠,0
+{kor}ㅍㅗㄱㅕㅇ,pʰ o̞ː ɡ j ʌ̹ ŋ,0
+{kor}ㅍㅗㄷㅗㄷㅏㅇ,pʰ o̞ d o̞ d a̠ ŋ,0
+{kor}ㅍㅗㄷㅡㄱㅗㄹㅣㅊㅏ,pʰ o̞ d ɯ ɡ o̞ ɾ i t͡ɕʰ a̠,0
+{kor}ㅍㅗㄹㅡㅌㅜㄱㅏㄹ,pʰ o̞ ɾ ɯ tʰ u ɡ a̠ ɭ,0
+{kor}ㅍㅗㅅㅜ,pʰ o̞ː sʰ u,0
+{kor}ㅍㅗㅋㅔㅅ,pʰ o̞ kʰ e̞ t̚,0
+{kor}ㅍㅗㄱㄱㅜㄴ,pʰ o̞ k̚ k͈ u n,0
+{kor}ㅍㅗㄱㄹㅕㄱㄷㅏㄴ,pʰ o̞ ŋ ɲ j ʌ̹ k̚ t͈ a̠ n,0
+{kor}ㅍㅗㄱㅂㅏㄹㅁㅜㄹ,pʰ o̞ k̚ p͈ a̠ ɭ m u ɭ,0
+{kor}ㅍㅗㄱㅇㅜ,pʰ o̞ ɡ u,0
+{kor}ㅍㅗㄹㄷㅓ,pʰ o̞ ɭ d ʌ̹,0
+{kor}ㅍㅗㄹㄹㅣㅁㅓ,pʰ o̞ ʎ ʎ i m ʌ̹,0
+{kor}ㅍㅛㅈㅓㅇ,pʰ j o d͡ʑ ʌ̹ ŋ,0
+{kor}ㅍㅛㅈㅜㄴ,pʰ j o d͡ʑ u n,0
+{kor}ㅍㅜㄷㅡㄹ,pʰ u d ɯ ɭ,0
+{kor}ㅍㅜㄹㄷㅏ,pʰ u ɭ d a̠,0
+{kor}ㅍㅜㄹㅇㅗㅂㅓ,pʰ u ɾ o̞ b ʌ̹,0
+{kor}ㅍㅜㄹㅇㅣㅎㅏㄷㅏ,pʰ u ɾ i ɦ a̠ d a̠,0
+{kor}ㅍㅜㅇㄷㅔㅇㅇㅣ,pʰ u ŋ d e̞ ŋ i,0
+{kor}ㅍㅜㅇㅈㅏ,pʰ u ŋ d͡ʑ a̠,0
+{kor}ㅍㅡㄹㅏㅇㅣㅇㅏ,pʰ ɯ ɾ a̠ i a̠,0
+{kor}ㅍㅡㄹㅏㅇ,pʰ ɯ ɾ a̠ ŋ,0
+{kor}ㅍㅡㄹㅗㅁㅗㅅㅕㄴ,pʰ ɯ ɾ o̞ m o̞ ɕʰ ʌ̹ n,0
+{kor}ㅍㅡㄹㅗㅇㅣㅅㅔㄴ,pʰ ɯ ɾ o̞ i sʰ e̞ n,0
+{kor}ㅍㅡㄹㅗㄹㄹㅔㅌㅏㄹㅣㅇㅏ,pʰ ɯ ɾ o̞ ɭ ɭ e̞ tʰ a̠ ɾ i a̠,0
+{kor}ㅍㅡㄹㅣㄴㅅㅡㅌㅓㄴ,pʰ ɯ ɾ i n sʰ ɯ tʰ ʌ̹ n,0
+{kor}ㅍㅡㄹㄹㅔㅇㅣㅇㅓ,pʰ ɯ ɭ ɭ e̞ i ʌ̹,0
+{kor}ㅍㅣㄱㅗㄴㅎㅏㄷㅏ,pʰ i ɡ o̞ n ɦ a̠ d a̠,0
+{kor}ㅍㅣㄹㅏㅁㅣ,pʰ i ɾ a̠ m i,0
+{kor}ㅍㅣㄹㅣ,pʰ i ɾ i,0
+{kor}ㅍㅣㅈㅏ,pʰ i d͡ʑ a̠,0
+{kor}ㅎㅏㄱㅔㅊㅔ,h a̠ ɡ e̞ t͡ɕʰ e̞,0
+{kor}ㅎㅏㄱㅣㄴ,h a̠ ɡ i n,0
+{kor}ㅎㅏㄴㅗㅇㅣ,h a̠ n o̞ i,0
+{kor}ㅎㅏㄴㅡㄹㄷㅏㄹㅏㅁㅈㅟ,h a̠ n ɯ ɭ d a̠ ɾ a̠ m d͡ʑ ɥ i,0
+{kor}ㅎㅏㄷㅡ,h a̠ d ɯ,0
+{kor}ㅎㅏㄹㅏㄹㅔ,h a̠ ɾ a̠ ɾ e̞,0
+{kor}ㅎㅏㄹㅏㄱㅎㅏㄷㅏ,h a̠ː ɾ a̠ kʰ a̠ d a̠,0
+{kor}ㅎㅏㄹㅜㅅㅂㅏㅁ,h a̠ ɾ u t̚ p͈ a̠ m,0
+{kor}ㅎㅏㄹㅡㅌㅜㅁ,h a̠ ɾ ɯ tʰ u m,0
+{kor}ㅎㅏㅂㅓㄷㅡ,h a̠ b ʌ̹ d ɯ,0
+{kor}ㅎㅏㅂㅜㄱ,h a̠ b u k̚,0
+{kor}ㅎㅏㅇㅓㄹㅂㅣㄴ,h a̠ ʌ̹ ɭ b i n,0
+{kor}ㅎㅏㅇㅕㅌㅡㄴ,h a̠ j ʌ̹ tʰ ɯ n,0
+{kor}ㅎㅏㄱㅂㅜㅁㅗ,h a̠ k̚ p͈ u m o̞,0
+{kor}ㅎㅏㄱㅇㅟ,h a̠ ɡ ɥ i,0
+{kor}ㅎㅏㄴㄱㅏㅇㅜㄴㄷㅔ,h a̠ n ɡ a̠ u n d e̞,0
+{kor}ㅎㅏㄴㄷㅏㅁ,h a̠ n d a̠ m,0
+{kor}ㅎㅏㄴㅂㅓㄴ,h a̠ n b ʌ̹ n,0
+{kor}ㅎㅏㄴㅅㅣㄱ,h a̠ː n ɕʰ i k̚,0
+{kor}ㅎㅏㄴㅅㅣㅁ,h a̠ n ɕʰ i m,0
+{kor}ㅎㅏㄴㅉㅗㄱ,h a̠ ɲ t͡ɕ͈ o̞ k̚,0
+{kor}ㅎㅏㅂㅅㅛㅊㅔ,h a̠ p ɕ͈ o t͡ɕʰ e̞,0
+{kor}ㅎㅏㅂㅈㅏ,h a̠ p̚ t͡ɕ͈ a̠,0
+{kor}ㅎㅏㅅㄹㅏㅇㅣㄴ,h a̠ n n a̠ i n,0
+{kor}ㅎㅏㅇㄱㅗㅇ,h a̠ː ŋ ɡ o̞ ŋ,0
+{kor}ㅎㅏㅇㄱㅗㅇㅁㅗㅎㅏㅁ,h a̠ː ŋ ɡ o̞ ŋ m o̞ ɦ a̠ m,0
+{kor}ㅎㅏㅇㄱㅜ,h a̠ː ŋ ɡ u,0
+{kor}ㅎㅐㄴㅏㅁ,h ɛː n a̠ m,0
+{kor}ㅎㅐㅂㅏㄹ,h ɛː b a̠ ɭ,0
+{kor}ㅎㅐㅂㅏㅇ,h ɛː b a̠ ŋ,0
+{kor}ㅎㅐㅅㅓㄱ,h ɛː sʰ ʌ̹ k̚,0
+{kor}ㅎㅐㅇㅑㅇ,h ɛː j a̠ ŋ,0
+{kor}ㅎㅐㅈㅏㅇㄱㅜㄱ,h ɛː d͡ʑ a̠ ŋ ɡ u k̚,0
+{kor}ㅎㅐㅈㅓㄱ,h ɛː d͡ʑ ʌ̹ k̚,0
+{kor}ㅎㅐㅈㅣ,h ɛː d͡ʑ i,0
+{kor}ㅎㅐㅊㅔ,h ɛː t͡ɕʰ e̞,0
+{kor}ㅎㅐㅎㅕㅂ,h ɛː ʝ j ʌ̹ p̚,0
+{kor}ㅎㅐㅇㅂㅗㄱㅎㅏㄷㅏ,h ɛː ŋ b o̞ kʰ a̠ d a̠,0
+{kor}ㅎㅓㄴㅏㄴ,h ʌ̹ n a̠ n,0
+{kor}ㅎㅓㅇㅛㅇㅎㅏㄷㅏ,h ʌ̹ j o ŋ ɦ a̠ d a̠,0
+{kor}ㅎㅓㅍㅏ,h ʌ̹ pʰ a̠,0
+{kor}ㅎㅓㄴㅂㅕㅇ,h ɘː n b j ʌ̹ ŋ,0
+{kor}ㅎㅔㅅㅡㅌㅣㅇㅏ,h e̞ sʰ ɯ tʰ i a̠,0
+{kor}ㅎㅔㅇㅣㄱㅡ,h e̞ i ɡ ɯ,0
+{kor}ㅎㅔㅅㄱㅏㄹㄹㅣㄷㅏ,h e̞ t̚ k͈ a̠ ʎ ʎ i d a̠,0
+{kor}ㅎㅗㄱㅜ,ɸʷ o̞ː ɡ u,0
+{kor}ㅎㅗㄹㅣ,ɸʷ o̞ ɾ i,0
+{kor}ㅎㅗㅅㅏ,ɸʷ o̞ sʰ a̠,0
+{kor}ㅎㅗㅈㅓㅇ,ɸʷ o̞ d͡ʑ ʌ̹ ŋ,0
+{kor}ㅎㅗㄴㅇㅣㄴ,ɸʷ o̞ n i n,0
+{kor}ㅎㅘㅅㅏㄹㄴㅏㅁㅜ,ɸ w a̠ sʰ a̠ ɭ ɭ a̠ m u,0
+{kor}ㅎㅘㅅㅓㅇ,ɸ w a̠ː sʰ ʌ̹ ŋ,0
+{kor}ㅎㅘㅇㅣㅌㅡㅂㅗㄷㅡ,ɸ w a̠ i tʰ ɯ b o̞ d ɯ,0
+{kor}ㅎㅘㅈㅏㅇㅅㅣㄹ,ɸ w a̠ d͡ʑ a̠ ŋ ɕʰ i ɭ,0
+{kor}ㅎㅘㅈㅏㅇㅍㅜㅁ,ɸ w a̠ d͡ʑ a̠ ŋ pʰ u m,0
+{kor}ㅎㅘㅈㅔ,ɸ w a̠ d͡ʑ e̞,0
+{kor}ㅎㅘㄱㅂㅗ,ɸ w a̠ k̚ p͈ o̞,0
+{kor}ㅎㅘㄴㅅㅏㅇㄱㅗㄱ,ɸ w a̠ n sʰ a̠ ŋ ɡ o̞ k̚,0
+{kor}ㅎㅘㄴㅈㅏ,ɸ w a̠ː ɲ d͡ʑ a̠,0
+{kor}ㅎㅚㄷㅏㅂ,ɸ w e̞ d a̠ p̚,0
+{kor}ㅎㅚㅇㅡㅁㅂㅜ,ɸ w e̞ː ɯ m b u,0
+{kor}ㅎㅚㅎㅘ,ɸ w e̞ː β w a̠,0
+{kor}ㅎㅚㅇㄹㅕㅇ,ɸ w e̞ ŋ ɲ j ʌ̹ ŋ,0
+{kor}ㅎㅜㄱㅏㄱ,ɸʷ u ɡ a̠ k̚,0
+{kor}ㅎㅜㄱㅣ,ɸʷ uː ɡ i,0
+{kor}ㅎㅜㅂㅏㄴ,ɸʷ uː b a̠ n,0
+{kor}ㅎㅜㅎㅚ,ɸʷ uː β w e̞,0
+{kor}ㅎㅡㄴㅡㄲㅣㄷㅏ,x ɯ n ɯ k͈ i d a̠,0
+{kor}ㅎㅡㄹㅣㄷㅏ,x ɯ ɾ i d a̠,0
+{kor}ㅎㅡㅇㅁㅣㅈㅣㄴㅈㅣㄴㅎㅏㄷㅏ,x ɯː ŋ m i d͡ʑ i ɲ d͡ʑ i n ɦ a̠ d a̠,0

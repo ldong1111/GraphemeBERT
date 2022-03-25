@@ -50,7 +50,7 @@ In this paper, we proposes a pre-trained grapheme model called grapheme BERT (GB
 2. GBERT finetuning
 	1. pretrained GBERT encoder + random initialized Transformer decoder
 	
-3. GBERT attention (This is adopted from [BERT-fused model]([bert-nmt/bert-nmt (github.com)](https://github.com/bert-nmt/bert-nmt)), which is an application of how to utilize BERT for the generation task (NMT is used in their paper)).
+3. GBERT attention (This is adopted from [BERT-fused model](https://github.com/bert-nmt/bert-nmt)), which is an application of how to utilize BERT for the generation task (NMT is used in their paper)).
 
    ![GBERT_attention](./figs/GBERT_attention.png)
 
